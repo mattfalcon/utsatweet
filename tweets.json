@@ -1,0 +1,6213 @@
+{
+	"statuses": [
+		{
+			"created_at": "Sun Jan 07 16:57:32 +0000 2018",
+			"id": 950048769931989000,
+			"id_str": "950048769931988993",
+			"text": "RT @tinamar2986: As a member of the  @MLKCommissionSA Scholarship Committee, I have worked with personnel from @SAISD &amp; @UTSA to develop th…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tinamar2986",
+						"name": "Martina",
+						"id": 3182900203,
+						"id_str": "3182900203",
+						"indices": [
+							3,
+							15
+						]
+					},
+					{
+						"screen_name": "MLKCommissionSA",
+						"name": "SA MLK Commission",
+						"id": 4107858439,
+						"id_str": "4107858439",
+						"indices": [
+							37,
+							53
+						]
+					},
+					{
+						"screen_name": "SAISD",
+						"name": "SAISD",
+						"id": 50641709,
+						"id_str": "50641709",
+						"indices": [
+							111,
+							117
+						]
+					},
+					{
+						"screen_name": "UTSA",
+						"name": "UTSA",
+						"id": 85362822,
+						"id_str": "85362822",
+						"indices": [
+							124,
+							129
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23640682,
+				"id_str": "23640682",
+				"name": "Erin Doran",
+				"screen_name": "ErinDoran_EdD",
+				"location": "Ames, IA and Alamo City",
+				"description": "Asst Prof at Iowa State U, native Tejana, future McArthur grant recipient, tweets are my own. #DevEd #latinos #communitycolleges #literacy",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 631,
+				"friends_count": 1162,
+				"listed_count": 22,
+				"created_at": "Tue Mar 10 19:43:14 +0000 2009",
+				"favourites_count": 3336,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2165,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775865711755350016/Qlcl5PZf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775865711755350016/Qlcl5PZf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23640682/1510541672",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Jan 07 16:46:33 +0000 2018",
+				"id": 950046005961089000,
+				"id_str": "950046005961089024",
+				"text": "As a member of the  @MLKCommissionSA Scholarship Committee, I have worked with personnel from @SAISD &amp; @UTSA to dev… https://t.co/IPtXSTaj6f",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "MLKCommissionSA",
+							"name": "SA MLK Commission",
+							"id": 4107858439,
+							"id_str": "4107858439",
+							"indices": [
+								20,
+								36
+							]
+						},
+						{
+							"screen_name": "SAISD",
+							"name": "SAISD",
+							"id": 50641709,
+							"id_str": "50641709",
+							"indices": [
+								94,
+								100
+							]
+						},
+						{
+							"screen_name": "UTSA",
+							"name": "UTSA",
+							"id": 85362822,
+							"id_str": "85362822",
+							"indices": [
+								107,
+								112
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/IPtXSTaj6f",
+							"expanded_url": "https://twitter.com/i/web/status/950046005961089024",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3182900203,
+					"id_str": "3182900203",
+					"name": "Martina",
+					"screen_name": "tinamar2986",
+					"location": "",
+					"description": "Passive aggressive microaggressions will no longer be tolerated.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 151,
+					"friends_count": 631,
+					"listed_count": 0,
+					"created_at": "Sat May 02 12:32:43 +0000 2015",
+					"favourites_count": 870,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 629,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/734335107566206977/1TPMywRI_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/734335107566206977/1TPMywRI_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "3df4f427b5a60fea",
+					"url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json",
+					"place_type": "city",
+					"name": "San Antonio",
+					"full_name": "San Antonio, TX",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-98.778559,
+									29.141956
+								],
+								[
+									-98.302744,
+									29.141956
+								],
+								[
+									-98.302744,
+									29.693046
+								],
+								[
+									-98.778559,
+									29.693046
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:55:16 +0000 2018",
+			"id": 950048200517447700,
+			"id_str": "950048200517447681",
+			"text": "RT @UTSACampusRec: You can officially plan your semester! Our Group Exercise (Gx) schedule is here! Schedule runs January 8th through April…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UTSACampusRec",
+						"name": "Campus Recreation",
+						"id": 284183733,
+						"id_str": "284183733",
+						"indices": [
+							3,
+							17
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 997271228,
+				"id_str": "997271228",
+				"name": "Bec",
+				"screen_name": "beccasobubbly",
+				"location": "",
+				"description": "catholic. marcos mendoza. utsa.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 451,
+				"friends_count": 337,
+				"listed_count": 3,
+				"created_at": "Sat Dec 08 14:28:13 +0000 2012",
+				"favourites_count": 14853,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20002,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/944351167831789568/DSK4ZoEO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/944351167831789568/DSK4ZoEO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/997271228/1514819108",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Fri Jan 05 16:54:07 +0000 2018",
+				"id": 949323132665581600,
+				"id_str": "949323132665581568",
+				"text": "You can officially plan your semester! Our Group Exercise (Gx) schedule is here! Schedule runs January 8th through… https://t.co/75kepioNW3",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/75kepioNW3",
+							"expanded_url": "https://twitter.com/i/web/status/949323132665581568",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 284183733,
+					"id_str": "284183733",
+					"name": "Campus Recreation",
+					"screen_name": "UTSACampusRec",
+					"location": "San Antonio, Texas",
+					"description": "Campus Recreation provides a variety of premier recreational and wellness opportunities in a fun, healthy and safe environment.",
+					"url": "https://t.co/YwlSYwqbFT",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/YwlSYwqbFT",
+									"expanded_url": "http://campusrec.utsa.edu",
+									"display_url": "campusrec.utsa.edu",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5857,
+					"friends_count": 2938,
+					"listed_count": 46,
+					"created_at": "Mon Apr 18 20:01:04 +0000 2011",
+					"favourites_count": 4851,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 9429,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000001226116/abf96b72aa4c0f8f09d2b82657238b37.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000001226116/abf96b72aa4c0f8f09d2b82657238b37.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/378800000007404466/b106093469b3de7a5ab6308b44029078_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000007404466/b106093469b3de7a5ab6308b44029078_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/284183733/1484661442",
+					"profile_link_color": "FF5E19",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7,
+				"favorite_count": 16,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:55:06 +0000 2018",
+			"id": 950048156456235000,
+			"id_str": "950048156456235009",
+			"text": "@Forbes Lol the 3rd doesn’t even look like San Antonio https://t.co/SXaf3to8MG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Forbes",
+						"name": "Forbes",
+						"id": 91478624,
+						"id_str": "91478624",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 950048151343280100,
+						"id_str": "950048151343280128",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DS8_wpRVMAAr-kF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS8_wpRVMAAr-kF.jpg",
+						"url": "https://t.co/SXaf3to8MG",
+						"display_url": "pic.twitter.com/SXaf3to8MG",
+						"expanded_url": "https://twitter.com/UTSA_Roadrunner/status/950048156456235009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 595,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 198,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 349,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 950048151343280100,
+						"id_str": "950048151343280128",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DS8_wpRVMAAr-kF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS8_wpRVMAAr-kF.jpg",
+						"url": "https://t.co/SXaf3to8MG",
+						"display_url": "pic.twitter.com/SXaf3to8MG",
+						"expanded_url": "https://twitter.com/UTSA_Roadrunner/status/950048156456235009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 595,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 198,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 349,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 950022978791788500,
+			"in_reply_to_status_id_str": "950022978791788544",
+			"in_reply_to_user_id": 91478624,
+			"in_reply_to_user_id_str": "91478624",
+			"in_reply_to_screen_name": "Forbes",
+			"user": {
+				"id": 3250370425,
+				"id_str": "3250370425",
+				"name": "José",
+				"screen_name": "UTSA_Roadrunner",
+				"location": "San Antonio, TX",
+				"description": "#UTSA19 | 21 y.o. | Snap👻: UTSA_Roadrunner",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 196,
+				"friends_count": 110,
+				"listed_count": 1,
+				"created_at": "Sat Jun 20 04:01:46 +0000 2015",
+				"favourites_count": 12136,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5790,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950047048224727040/qcxc9te4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950047048224727040/qcxc9te4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3250370425/1515037775",
+				"profile_link_color": "F15A22",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:54:03 +0000 2018",
+			"id": 950047895008530400,
+			"id_str": "950047895008530432",
+			"text": "RT @BulldogUTSA: This is what it feels like as a UTSA student returning to class on Monday, watching everyone else have an extra week of wi…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BulldogUTSA",
+						"name": "John Paiz",
+						"id": 3164500638,
+						"id_str": "3164500638",
+						"indices": [
+							3,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50763658,
+				"id_str": "50763658",
+				"name": "J-Rock✊🏼",
+				"screen_name": "JTE38",
+				"location": "Runge,Tx-San Antonio,Tx",
+				"description": "21 | UTSA🤙🏼 | \"The Expert in anything was once a Beginner.\" | SC:jeric_troy",
+				"url": "https://t.co/zmEepHrbQE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zmEepHrbQE",
+								"expanded_url": "http://www.hudl.com/athlete/600358/highlights/220175400",
+								"display_url": "hudl.com/athlete/600358…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 440,
+				"friends_count": 210,
+				"listed_count": 0,
+				"created_at": "Thu Jun 25 20:44:02 +0000 2009",
+				"favourites_count": 3564,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5259,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947332609016778752/-EODsICo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947332609016778752/-EODsICo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50763658/1514012428",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sat Jan 06 23:41:19 +0000 2018",
+				"id": 949787999537172500,
+				"id_str": "949787999537172481",
+				"text": "This is what it feels like as a UTSA student returning to class on Monday, watching everyone else have an extra wee… https://t.co/6fk0dYXEuA",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/6fk0dYXEuA",
+							"expanded_url": "https://twitter.com/i/web/status/949787999537172481",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3164500638,
+					"id_str": "3164500638",
+					"name": "John Paiz",
+					"screen_name": "BulldogUTSA",
+					"location": "UTSA",
+					"description": "Former rep for Yik Yak, UTSA, I'm on TV sometimes. Snapchat: BulldogUTSA",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4863,
+					"friends_count": 4540,
+					"listed_count": 2,
+					"created_at": "Sun Apr 19 23:23:13 +0000 2015",
+					"favourites_count": 7847,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 305,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/800141607005630464/1jX1SEtY_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/800141607005630464/1jX1SEtY_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3164500638/1472967980",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 224,
+				"favorite_count": 653,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 224,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:54:02 +0000 2018",
+			"id": 950047889149055000,
+			"id_str": "950047889149054976",
+			"text": "RT @Forbes: Big U.S. cities with the fastest-growing economies: \n1. San Jose, CA\n2. Austin, TX\n3. San Antonio, TX… https://t.co/HdToNlXQc1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Forbes",
+						"name": "Forbes",
+						"id": 91478624,
+						"id_str": "91478624",
+						"indices": [
+							3,
+							10
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HdToNlXQc1",
+						"expanded_url": "https://twitter.com/i/web/status/950047889149054976",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://www.google.com\" rel=\"nofollow\">RoboticArm</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 950034816174559200,
+				"id_str": "950034816174559232",
+				"name": "RoboTweeter",
+				"screen_name": "tweeter_robo",
+				"location": "",
+				"description": "UTSA trending tweets, Roadrunner Heavy",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 0,
+				"friends_count": 5,
+				"listed_count": 0,
+				"created_at": "Sun Jan 07 16:02:05 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950047576732024832/Z43ufdFg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950047576732024832/Z43ufdFg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/950034816174559232/1515343834",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:50:25 +0000 2018",
+			"id": 950046977319931900,
+			"id_str": "950046977319931905",
+			"text": "RT @BulldogUTSA: This is what it feels like as a UTSA student returning to class on Monday, watching everyone else have an extra week of wi…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BulldogUTSA",
+						"name": "John Paiz",
+						"id": 3164500638,
+						"id_str": "3164500638",
+						"indices": [
+							3,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 482482840,
+				"id_str": "482482840",
+				"name": "John Michael",
+				"screen_name": "thatboyjohnn_",
+				"location": "",
+				"description": "UTSA 🤙🏾 '19                                                                        love my chica @shaeleejenay 😍 and my dope pets",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 782,
+				"friends_count": 771,
+				"listed_count": 0,
+				"created_at": "Fri Feb 03 23:41:15 +0000 2012",
+				"favourites_count": 5051,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9900,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/935280828468416513/v1ZUkShY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/935280828468416513/v1ZUkShY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/482482840/1499813824",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sat Jan 06 23:41:19 +0000 2018",
+				"id": 949787999537172500,
+				"id_str": "949787999537172481",
+				"text": "This is what it feels like as a UTSA student returning to class on Monday, watching everyone else have an extra wee… https://t.co/6fk0dYXEuA",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/6fk0dYXEuA",
+							"expanded_url": "https://twitter.com/i/web/status/949787999537172481",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3164500638,
+					"id_str": "3164500638",
+					"name": "John Paiz",
+					"screen_name": "BulldogUTSA",
+					"location": "UTSA",
+					"description": "Former rep for Yik Yak, UTSA, I'm on TV sometimes. Snapchat: BulldogUTSA",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4863,
+					"friends_count": 4540,
+					"listed_count": 2,
+					"created_at": "Sun Apr 19 23:23:13 +0000 2015",
+					"favourites_count": 7847,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 305,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/800141607005630464/1jX1SEtY_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/800141607005630464/1jX1SEtY_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3164500638/1472967980",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 224,
+				"favorite_count": 653,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 224,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:49:46 +0000 2018",
+			"id": 950046813536604200,
+			"id_str": "950046813536604162",
+			"text": "New episode alert! You guys do not want to miss this. We are discussing black culture being mainstream in the music… https://t.co/L2R4zNYMn1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/L2R4zNYMn1",
+						"expanded_url": "https://twitter.com/i/web/status/950046813536604162",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 836958909835296800,
+				"id_str": "836958909835296768",
+				"name": "kayla",
+				"screen_name": "iamkaylaaajayyy",
+				"location": "Houston, TX",
+				"description": "UTSA Alum.. 🔷🔶.                                                               1/3 of the podcast: GenerationYus",
+				"url": "https://t.co/hayjrp8UAA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hayjrp8UAA",
+								"expanded_url": "http://www.wearegenerationyus.com",
+								"display_url": "wearegenerationyus.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 337,
+				"friends_count": 1251,
+				"listed_count": 10,
+				"created_at": "Wed Mar 01 15:18:48 +0000 2017",
+				"favourites_count": 226,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1184,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836995171468337152/Nc9rEM0s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836995171468337152/Nc9rEM0s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/836958909835296768/1488390227",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:49:44 +0000 2018",
+			"id": 950046808322981900,
+			"id_str": "950046808322981888",
+			"text": "Todavía ni empieza el semestre y ya siento que voy atrasada en la tarea https://t.co/3OKOQGwaVy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3OKOQGwaVy",
+						"expanded_url": "https://twitter.com/utsa/status/950034590244143105",
+						"display_url": "twitter.com/utsa/status/95…",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "es",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 246597449,
+				"id_str": "246597449",
+				"name": "AnaVero Cantu",
+				"screen_name": "anaverordz",
+				"location": "",
+				"description": "Ser feliz y nada más",
+				"url": "https://t.co/dJbIWY0MSy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dJbIWY0MSy",
+								"expanded_url": "http://searchrc.org/retreat/san-antonio-tx/",
+								"display_url": "searchrc.org/retreat/san-an…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 645,
+				"friends_count": 1039,
+				"listed_count": 0,
+				"created_at": "Thu Feb 03 02:38:44 +0000 2011",
+				"favourites_count": 2768,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3040,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928098039708954624/IGeegZ2e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928098039708954624/IGeegZ2e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/246597449/1489772117",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 950034590244143100,
+			"quoted_status_id_str": "950034590244143105",
+			"quoted_status": {
+				"created_at": "Sun Jan 07 16:01:11 +0000 2018",
+				"id": 950034590244143100,
+				"id_str": "950034590244143105",
+				"text": "Spring semester starts tomorrow, ’Runners. We can’t wait to see you back on campus. #UTSA #SpringSemester… https://t.co/URxeSAcjzL",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "UTSA",
+							"indices": [
+								84,
+								89
+							]
+						},
+						{
+							"text": "SpringSemester",
+							"indices": [
+								90,
+								105
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/URxeSAcjzL",
+							"expanded_url": "https://twitter.com/i/web/status/950034590244143105",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "es",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 85362822,
+					"id_str": "85362822",
+					"name": "UTSA",
+					"screen_name": "UTSA",
+					"location": "San Antonio, TX",
+					"description": "Official Twitter account for #UTSA, San Antonio's university of the future. #Academics #Research #Service #Excellence",
+					"url": "https://t.co/VHxfjgW6aU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/VHxfjgW6aU",
+									"expanded_url": "http://www.utsa.edu",
+									"display_url": "utsa.edu",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 58477,
+					"friends_count": 1465,
+					"listed_count": 275,
+					"created_at": "Mon Oct 26 17:10:20 +0000 2009",
+					"favourites_count": 11748,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 12526,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "081936",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/863587681/2e5eaff36e28b079f18e3e40ff34b630.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/863587681/2e5eaff36e28b079f18e3e40ff34b630.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/85362822/1503054008",
+					"profile_link_color": "ED760E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "F0730C",
+					"profile_text_color": "0C2C85",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "3df4f427b5a60fea",
+					"url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json",
+					"place_type": "city",
+					"name": "San Antonio",
+					"full_name": "San Antonio, TX",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-98.778559,
+									29.141956
+								],
+								[
+									-98.302744,
+									29.141956
+								],
+								[
+									-98.302744,
+									29.693046
+								],
+								[
+									-98.778559,
+									29.693046
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 16,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		{
+			"created_at": "Sun Jan 07 16:48:06 +0000 2018",
+			"id": 950046396484390900,
+			"id_str": "950046396484390912",
+			"text": "RT @_sarah334: 🙄🙄🙄🙄🙄🙄🙄 https://t.co/k4QtMf0pgB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "_sarah334",
+						"name": "sarah ••",
+						"id": 1530942211,
+						"id_str": "1530942211",
+						"indices": [
+							3,
+							13
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/k4QtMf0pgB",
+						"expanded_url": "https://twitter.com/utsa/status/950034590244143105",
+						"display_url": "twitter.com/utsa/status/95…",
+						"indices": [
+							23,
+							46
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "und",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50763658,
+				"id_str": "50763658",
+				"name": "J-Rock✊🏼",
+				"screen_name": "JTE38",
+				"location": "Runge,Tx-San Antonio,Tx",
+				"description": "21 | UTSA🤙🏼 | \"The Expert in anything was once a Beginner.\" | SC:jeric_troy",
+				"url": "https://t.co/zmEepHrbQE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zmEepHrbQE",
+								"expanded_url": "http://www.hudl.com/athlete/600358/highlights/220175400",
+								"display_url": "hudl.com/athlete/600358…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 440,
+				"friends_count": 210,
+				"listed_count": 0,
+				"created_at": "Thu Jun 25 20:44:02 +0000 2009",
+				"favourites_count": 3564,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5259,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947332609016778752/-EODsICo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947332609016778752/-EODsICo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50763658/1514012428",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Jan 07 16:21:38 +0000 2018",
+				"id": 950039737510846500,
+				"id_str": "950039737510846466",
+				"text": "🙄🙄🙄🙄🙄🙄🙄 https://t.co/k4QtMf0pgB",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/k4QtMf0pgB",
+							"expanded_url": "https://twitter.com/utsa/status/950034590244143105",
+							"display_url": "twitter.com/utsa/status/95…",
+							"indices": [
+								8,
+								31
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "und",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1530942211,
+					"id_str": "1530942211",
+					"name": "sarah ••",
+					"screen_name": "_sarah334",
+					"location": "san antone ",
+					"description": "classy, sassy, and a lil smartassy. UTSA",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1102,
+					"friends_count": 890,
+					"listed_count": 0,
+					"created_at": "Wed Jun 19 13:54:12 +0000 2013",
+					"favourites_count": 17092,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 24890,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "ACDED6",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000003820817/3094dbb35d2d78e13a4c869a58e719ad.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000003820817/3094dbb35d2d78e13a4c869a58e719ad.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/943365546225094656/rzoZcHRr_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/943365546225094656/rzoZcHRr_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1530942211/1515000999",
+					"profile_link_color": "038543",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F6F6F6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 950034590244143100,
+				"quoted_status_id_str": "950034590244143105",
+				"quoted_status": {
+					"created_at": "Sun Jan 07 16:01:11 +0000 2018",
+					"id": 950034590244143100,
+					"id_str": "950034590244143105",
+					"text": "Spring semester starts tomorrow, ’Runners. We can’t wait to see you back on campus. #UTSA #SpringSemester… https://t.co/URxeSAcjzL",
+					"truncated": true,
+					"entities": {
+						"hashtags": [
+							{
+								"text": "UTSA",
+								"indices": [
+									84,
+									89
+								]
+							},
+							{
+								"text": "SpringSemester",
+								"indices": [
+									90,
+									105
+								]
+							}
+						],
+						"symbols": [],
+						"user_mentions": [],
+						"urls": [
+							{
+								"url": "https://t.co/URxeSAcjzL",
+								"expanded_url": "https://twitter.com/i/web/status/950034590244143105",
+								"display_url": "twitter.com/i/web/status/9…",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					},
+					"metadata": {
+						"iso_language_code": "und",
+						"result_type": "recent"
+					},
+					"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+					"in_reply_to_status_id": null,
+					"in_reply_to_status_id_str": null,
+					"in_reply_to_user_id": null,
+					"in_reply_to_user_id_str": null,
+					"in_reply_to_screen_name": null,
+					"user": {
+						"id": 85362822,
+						"id_str": "85362822",
+						"name": "UTSA",
+						"screen_name": "UTSA",
+						"location": "San Antonio, TX",
+						"description": "Official Twitter account for #UTSA, San Antonio's university of the future. #Academics #Research #Service #Excellence",
+						"url": "https://t.co/VHxfjgW6aU",
+						"entities": {
+							"url": {
+								"urls": [
+									{
+										"url": "https://t.co/VHxfjgW6aU",
+										"expanded_url": "http://www.utsa.edu",
+										"display_url": "utsa.edu",
+										"indices": [
+											0,
+											23
+										]
+									}
+								]
+							},
+							"description": {
+								"urls": []
+							}
+						},
+						"protected": false,
+						"followers_count": 58477,
+						"friends_count": 1465,
+						"listed_count": 275,
+						"created_at": "Mon Oct 26 17:10:20 +0000 2009",
+						"favourites_count": 11748,
+						"utc_offset": -21600,
+						"time_zone": "Central Time (US & Canada)",
+						"geo_enabled": true,
+						"verified": true,
+						"statuses_count": 12526,
+						"lang": "en",
+						"contributors_enabled": false,
+						"is_translator": false,
+						"is_translation_enabled": false,
+						"profile_background_color": "081936",
+						"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/863587681/2e5eaff36e28b079f18e3e40ff34b630.jpeg",
+						"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/863587681/2e5eaff36e28b079f18e3e40ff34b630.jpeg",
+						"profile_background_tile": false,
+						"profile_image_url": "http://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+						"profile_image_url_https": "https://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+						"profile_banner_url": "https://pbs.twimg.com/profile_banners/85362822/1503054008",
+						"profile_link_color": "ED760E",
+						"profile_sidebar_border_color": "000000",
+						"profile_sidebar_fill_color": "F0730C",
+						"profile_text_color": "0C2C85",
+						"profile_use_background_image": true,
+						"has_extended_profile": true,
+						"default_profile": false,
+						"default_profile_image": false,
+						"following": false,
+						"follow_request_sent": false,
+						"notifications": false,
+						"translator_type": "none"
+					},
+					"geo": null,
+					"coordinates": null,
+					"place": {
+						"id": "3df4f427b5a60fea",
+						"url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json",
+						"place_type": "city",
+						"name": "San Antonio",
+						"full_name": "San Antonio, TX",
+						"country_code": "US",
+						"country": "United States",
+						"contained_within": [],
+						"bounding_box": {
+							"type": "Polygon",
+							"coordinates": [
+								[
+									[
+										-98.778559,
+										29.141956
+									],
+									[
+										-98.302744,
+										29.141956
+									],
+									[
+										-98.302744,
+										29.693046
+									],
+									[
+										-98.778559,
+										29.693046
+									]
+								]
+							]
+						},
+						"attributes": {}
+					},
+					"contributors": null,
+					"is_quote_status": false,
+					"retweet_count": 3,
+					"favorite_count": 16,
+					"favorited": false,
+					"retweeted": false,
+					"possibly_sensitive": false,
+					"lang": "en"
+				},
+				"retweet_count": 1,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "und"
+			},
+			"is_quote_status": true,
+			"quoted_status_id": 950034590244143100,
+			"quoted_status_id_str": "950034590244143105",
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		{
+			"created_at": "Sun Jan 07 16:47:39 +0000 2018",
+			"id": 950046283481473000,
+			"id_str": "950046283481473024",
+			"text": "RT @UTSA: Spring semester starts tomorrow, ’Runners. We can’t wait to see you back on campus. #UTSA #SpringSemester #NewYearNewRunners http…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UTSA",
+						"indices": [
+							94,
+							99
+						]
+					},
+					{
+						"text": "SpringSemester",
+						"indices": [
+							100,
+							115
+						]
+					},
+					{
+						"text": "NewYearNewRunners",
+						"indices": [
+							116,
+							134
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UTSA",
+						"name": "UTSA",
+						"id": 85362822,
+						"id_str": "85362822",
+						"indices": [
+							3,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 91920594,
+				"id_str": "91920594",
+				"name": "marcos 3.0",
+				"screen_name": "marcostacos_",
+				"location": "San Antonio, TX",
+				"description": "grad student at UTSA. biology enthusiast. advocate for the bees. pizza aficionado. pi kappa phi alum. #UTSA19",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 448,
+				"friends_count": 976,
+				"listed_count": 3,
+				"created_at": "Mon Nov 23 02:41:04 +0000 2009",
+				"favourites_count": 74326,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13686,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0CED8E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/154642598/xf4e7a7f25c862e2e41cf0f001782dcf.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/154642598/xf4e7a7f25c862e2e41cf0f001782dcf.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948797587116707840/kSBH2gF0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948797587116707840/kSBH2gF0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/91920594/1510894345",
+				"profile_link_color": "13D8D8",
+				"profile_sidebar_border_color": "0CEDA8",
+				"profile_sidebar_fill_color": "F3FF8B",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Jan 07 16:01:11 +0000 2018",
+				"id": 950034590244143100,
+				"id_str": "950034590244143105",
+				"text": "Spring semester starts tomorrow, ’Runners. We can’t wait to see you back on campus. #UTSA #SpringSemester… https://t.co/URxeSAcjzL",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "UTSA",
+							"indices": [
+								84,
+								89
+							]
+						},
+						{
+							"text": "SpringSemester",
+							"indices": [
+								90,
+								105
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/URxeSAcjzL",
+							"expanded_url": "https://twitter.com/i/web/status/950034590244143105",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 85362822,
+					"id_str": "85362822",
+					"name": "UTSA",
+					"screen_name": "UTSA",
+					"location": "San Antonio, TX",
+					"description": "Official Twitter account for #UTSA, San Antonio's university of the future. #Academics #Research #Service #Excellence",
+					"url": "https://t.co/VHxfjgW6aU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/VHxfjgW6aU",
+									"expanded_url": "http://www.utsa.edu",
+									"display_url": "utsa.edu",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 58477,
+					"friends_count": 1465,
+					"listed_count": 275,
+					"created_at": "Mon Oct 26 17:10:20 +0000 2009",
+					"favourites_count": 11748,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 12526,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "081936",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/863587681/2e5eaff36e28b079f18e3e40ff34b630.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/863587681/2e5eaff36e28b079f18e3e40ff34b630.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/85362822/1503054008",
+					"profile_link_color": "ED760E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "F0730C",
+					"profile_text_color": "0C2C85",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "3df4f427b5a60fea",
+					"url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json",
+					"place_type": "city",
+					"name": "San Antonio",
+					"full_name": "San Antonio, TX",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-98.778559,
+									29.141956
+								],
+								[
+									-98.302744,
+									29.141956
+								],
+								[
+									-98.302744,
+									29.693046
+								],
+								[
+									-98.778559,
+									29.693046
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 16,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:47:27 +0000 2018",
+			"id": 950046230461272000,
+			"id_str": "950046230461272064",
+			"text": "RT @BulldogUTSA: This is what it feels like as a UTSA student returning to class on Monday, watching everyone else have an extra week of wi…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BulldogUTSA",
+						"name": "John Paiz",
+						"id": 3164500638,
+						"id_str": "3164500638",
+						"indices": [
+							3,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 711293964,
+				"id_str": "711293964",
+				"name": "ED ✨",
+				"screen_name": "Ereey__",
+				"location": "MIAMI HEAT",
+				"description": "kicks | 1 Corinthians 10:13",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1024,
+				"friends_count": 997,
+				"listed_count": 3,
+				"created_at": "Sun Jul 22 21:26:54 +0000 2012",
+				"favourites_count": 13722,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42538,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/921415121305554946/AuWIE8I9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/921415121305554946/AuWIE8I9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/711293964/1394857881",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sat Jan 06 23:41:19 +0000 2018",
+				"id": 949787999537172500,
+				"id_str": "949787999537172481",
+				"text": "This is what it feels like as a UTSA student returning to class on Monday, watching everyone else have an extra wee… https://t.co/6fk0dYXEuA",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/6fk0dYXEuA",
+							"expanded_url": "https://twitter.com/i/web/status/949787999537172481",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3164500638,
+					"id_str": "3164500638",
+					"name": "John Paiz",
+					"screen_name": "BulldogUTSA",
+					"location": "UTSA",
+					"description": "Former rep for Yik Yak, UTSA, I'm on TV sometimes. Snapchat: BulldogUTSA",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4863,
+					"friends_count": 4540,
+					"listed_count": 2,
+					"created_at": "Sun Apr 19 23:23:13 +0000 2015",
+					"favourites_count": 7847,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 305,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/800141607005630464/1jX1SEtY_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/800141607005630464/1jX1SEtY_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3164500638/1472967980",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 224,
+				"favorite_count": 653,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 224,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:47:11 +0000 2018",
+			"id": 950046163566252000,
+			"id_str": "950046163566252032",
+			"text": "@LushRooftop @parties_uiw @UTSAturnups @utsa_parties @UTSA_RT @UTSA_20 @utsapartyscene @EricMorgan210 🤔🤔",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LushRooftop",
+						"name": "Lush Rooftop",
+						"id": 2614654885,
+						"id_str": "2614654885",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "parties_uiw",
+						"name": "UIW PARTIES",
+						"id": 2202557569,
+						"id_str": "2202557569",
+						"indices": [
+							13,
+							25
+						]
+					},
+					{
+						"screen_name": "UTSAturnups",
+						"name": "UTSA Parties",
+						"id": 777030760893034500,
+						"id_str": "777030760893034496",
+						"indices": [
+							26,
+							38
+						]
+					},
+					{
+						"screen_name": "utsa_parties",
+						"name": "UTSA PARTIES",
+						"id": 4772479932,
+						"id_str": "4772479932",
+						"indices": [
+							39,
+							52
+						]
+					},
+					{
+						"screen_name": "UTSA_RT",
+						"name": "UTSA Retweets",
+						"id": 2175530965,
+						"id_str": "2175530965",
+						"indices": [
+							53,
+							61
+						]
+					},
+					{
+						"screen_name": "UTSA_20",
+						"name": "#UTSA21 Retweets",
+						"id": 885417583,
+						"id_str": "885417583",
+						"indices": [
+							62,
+							70
+						]
+					},
+					{
+						"screen_name": "utsapartyscene",
+						"name": "UTSA PARTY SCENE",
+						"id": 905281976080453600,
+						"id_str": "905281976080453632",
+						"indices": [
+							71,
+							86
+						]
+					},
+					{
+						"screen_name": "EricMorgan210",
+						"name": "#Snap ericmorgan210",
+						"id": 34819589,
+						"id_str": "34819589",
+						"indices": [
+							87,
+							101
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "und",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 949786872879960000,
+			"in_reply_to_status_id_str": "949786872879960065",
+			"in_reply_to_user_id": 2614654885,
+			"in_reply_to_user_id_str": "2614654885",
+			"in_reply_to_screen_name": "LushRooftop",
+			"user": {
+				"id": 179763003,
+				"id_str": "179763003",
+				"name": "john smith",
+				"screen_name": "rayrock3000",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34,
+				"friends_count": 51,
+				"listed_count": 6,
+				"created_at": "Wed Aug 18 01:58:14 +0000 2010",
+				"favourites_count": 10239,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4460,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "und"
+		},
+		{
+			"created_at": "Sun Jan 07 16:46:33 +0000 2018",
+			"id": 950046005961089000,
+			"id_str": "950046005961089024",
+			"text": "As a member of the  @MLKCommissionSA Scholarship Committee, I have worked with personnel from @SAISD &amp; @UTSA to dev… https://t.co/IPtXSTaj6f",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MLKCommissionSA",
+						"name": "SA MLK Commission",
+						"id": 4107858439,
+						"id_str": "4107858439",
+						"indices": [
+							20,
+							36
+						]
+					},
+					{
+						"screen_name": "SAISD",
+						"name": "SAISD",
+						"id": 50641709,
+						"id_str": "50641709",
+						"indices": [
+							94,
+							100
+						]
+					},
+					{
+						"screen_name": "UTSA",
+						"name": "UTSA",
+						"id": 85362822,
+						"id_str": "85362822",
+						"indices": [
+							107,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IPtXSTaj6f",
+						"expanded_url": "https://twitter.com/i/web/status/950046005961089024",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3182900203,
+				"id_str": "3182900203",
+				"name": "Martina",
+				"screen_name": "tinamar2986",
+				"location": "",
+				"description": "Passive aggressive microaggressions will no longer be tolerated.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 151,
+				"friends_count": 631,
+				"listed_count": 0,
+				"created_at": "Sat May 02 12:32:43 +0000 2015",
+				"favourites_count": 870,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 629,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/734335107566206977/1TPMywRI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/734335107566206977/1TPMywRI_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3df4f427b5a60fea",
+				"url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json",
+				"place_type": "city",
+				"name": "San Antonio",
+				"full_name": "San Antonio, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-98.778559,
+								29.141956
+							],
+							[
+								-98.302744,
+								29.141956
+							],
+							[
+								-98.302744,
+								29.693046
+							],
+							[
+								-98.778559,
+								29.693046
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:46:18 +0000 2018",
+			"id": 950045942471970800,
+			"id_str": "950045942471970816",
+			"text": "RT @AMAZlNGNATURE: Duck landing on ice 🦆 https://t.co/bYjKEYzhSp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AMAZlNGNATURE",
+						"name": "Nature is Amazing 🌿",
+						"id": 2828212668,
+						"id_str": "2828212668",
+						"indices": [
+							3,
+							17
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 949718143387107300,
+						"id_str": "949718143387107328",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+						"url": "https://t.co/bYjKEYzhSp",
+						"display_url": "pic.twitter.com/bYjKEYzhSp",
+						"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/949718254846488576/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 949718254846488600,
+						"source_status_id_str": "949718254846488576",
+						"source_user_id": 2828212668,
+						"source_user_id_str": "2828212668"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 949718143387107300,
+						"id_str": "949718143387107328",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+						"url": "https://t.co/bYjKEYzhSp",
+						"display_url": "pic.twitter.com/bYjKEYzhSp",
+						"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/949718254846488576/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 949718254846488600,
+						"source_status_id_str": "949718254846488576",
+						"source_user_id": 2828212668,
+						"source_user_id_str": "2828212668",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 5706,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/vid/1280x720/aYRlRJkcYaGD0HW5.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/vid/640x360/gzeekTWwXTfI9yEk.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/vid/320x180/sPnkmjiY_r1yMFY9.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/pl/W0eTl65UjdLFA6Nc.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2828212668,
+								"id_str": "2828212668",
+								"name": "Nature is Amazing 🌿",
+								"screen_name": "AMAZlNGNATURE",
+								"location": "🌍",
+								"description": "Animals 🦁  Nature 🌳 Discovery 🏞️\n         ©Photos/Videos belong to credited owners \n       DM for credit/removal",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 275015,
+								"friends_count": 0,
+								"listed_count": 1518,
+								"created_at": "Tue Sep 23 15:27:26 +0000 2014",
+								"favourites_count": 280,
+								"utc_offset": 19800,
+								"time_zone": "Asia/Calcutta",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 4285,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "1A1B1F",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1514041767",
+								"profile_link_color": "FF691F",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3250370425,
+				"id_str": "3250370425",
+				"name": "José",
+				"screen_name": "UTSA_Roadrunner",
+				"location": "San Antonio, TX",
+				"description": "#UTSA19 | 21 y.o. | Snap👻: UTSA_Roadrunner",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 196,
+				"friends_count": 110,
+				"listed_count": 1,
+				"created_at": "Sat Jun 20 04:01:46 +0000 2015",
+				"favourites_count": 12136,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5790,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950047048224727040/qcxc9te4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950047048224727040/qcxc9te4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3250370425/1515037775",
+				"profile_link_color": "F15A22",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sat Jan 06 19:04:11 +0000 2018",
+				"id": 949718254846488600,
+				"id_str": "949718254846488576",
+				"text": "Duck landing on ice 🦆 https://t.co/bYjKEYzhSp",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 949718143387107300,
+							"id_str": "949718143387107328",
+							"indices": [
+								22,
+								45
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+							"url": "https://t.co/bYjKEYzhSp",
+							"display_url": "pic.twitter.com/bYjKEYzhSp",
+							"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/949718254846488576/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1280,
+									"h": 720,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 949718143387107300,
+							"id_str": "949718143387107328",
+							"indices": [
+								22,
+								45
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/949718143387107328/pu/img/urZmXkLnaeAWPAmV.jpg",
+							"url": "https://t.co/bYjKEYzhSp",
+							"display_url": "pic.twitter.com/bYjKEYzhSp",
+							"expanded_url": "https://twitter.com/AMAZlNGNATURE/status/949718254846488576/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1280,
+									"h": 720,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 5706,
+								"variants": [
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/vid/1280x720/aYRlRJkcYaGD0HW5.mp4"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/vid/640x360/gzeekTWwXTfI9yEk.mp4"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/vid/320x180/sPnkmjiY_r1yMFY9.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/949718143387107328/pu/pl/W0eTl65UjdLFA6Nc.m3u8"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2828212668,
+					"id_str": "2828212668",
+					"name": "Nature is Amazing 🌿",
+					"screen_name": "AMAZlNGNATURE",
+					"location": "🌍",
+					"description": "Animals 🦁  Nature 🌳 Discovery 🏞️\n         ©Photos/Videos belong to credited owners \n       DM for credit/removal",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 275015,
+					"friends_count": 0,
+					"listed_count": 1518,
+					"created_at": "Tue Sep 23 15:27:26 +0000 2014",
+					"favourites_count": 280,
+					"utc_offset": 19800,
+					"time_zone": "Asia/Calcutta",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 4285,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1A1B1F",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515078694629425152/Q_hTL2Em.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/948150591095578624/CTWkMGIj_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828212668/1514041767",
+					"profile_link_color": "FF691F",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 49826,
+				"favorite_count": 115824,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 49826,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:44:41 +0000 2018",
+			"id": 950045535154688000,
+			"id_str": "950045535154688002",
+			"text": "RT @UTSA: Spring semester starts tomorrow, ’Runners. We can’t wait to see you back on campus. #UTSA #SpringSemester #NewYearNewRunners http…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UTSA",
+						"indices": [
+							94,
+							99
+						]
+					},
+					{
+						"text": "SpringSemester",
+						"indices": [
+							100,
+							115
+						]
+					},
+					{
+						"text": "NewYearNewRunners",
+						"indices": [
+							116,
+							134
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UTSA",
+						"name": "UTSA",
+						"id": 85362822,
+						"id_str": "85362822",
+						"indices": [
+							3,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158472843,
+				"id_str": "158472843",
+				"name": "Leia Black",
+				"screen_name": "leiablack",
+				"location": "San Antonio",
+				"description": "Young, black, and savage 😏 Manager & Substitute 🙌🏾 #UTSA19 #22 IG: https://t.co/tZ4lOCBUMO",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tZ4lOCBUMO",
+								"expanded_url": "https://www.instagram.com/leiablack_/",
+								"display_url": "instagram.com/leiablack_/",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5270,
+				"friends_count": 5753,
+				"listed_count": 23,
+				"created_at": "Tue Jun 22 20:04:58 +0000 2010",
+				"favourites_count": 3330,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9351,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "74D7E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/270586920/xf5bc08cba1d9cd12f1e9023f1c544b5.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/270586920/xf5bc08cba1d9cd12f1e9023f1c544b5.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/911456724162433024/ku7V0HPH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/911456724162433024/ku7V0HPH_normal.jpg",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "7EB8C2",
+				"profile_sidebar_fill_color": "B3DEFF",
+				"profile_text_color": "4D3F3F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Jan 07 16:01:11 +0000 2018",
+				"id": 950034590244143100,
+				"id_str": "950034590244143105",
+				"text": "Spring semester starts tomorrow, ’Runners. We can’t wait to see you back on campus. #UTSA #SpringSemester… https://t.co/URxeSAcjzL",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "UTSA",
+							"indices": [
+								84,
+								89
+							]
+						},
+						{
+							"text": "SpringSemester",
+							"indices": [
+								90,
+								105
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/URxeSAcjzL",
+							"expanded_url": "https://twitter.com/i/web/status/950034590244143105",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 85362822,
+					"id_str": "85362822",
+					"name": "UTSA",
+					"screen_name": "UTSA",
+					"location": "San Antonio, TX",
+					"description": "Official Twitter account for #UTSA, San Antonio's university of the future. #Academics #Research #Service #Excellence",
+					"url": "https://t.co/VHxfjgW6aU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/VHxfjgW6aU",
+									"expanded_url": "http://www.utsa.edu",
+									"display_url": "utsa.edu",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 58477,
+					"friends_count": 1465,
+					"listed_count": 275,
+					"created_at": "Mon Oct 26 17:10:20 +0000 2009",
+					"favourites_count": 11748,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 12526,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "081936",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/863587681/2e5eaff36e28b079f18e3e40ff34b630.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/863587681/2e5eaff36e28b079f18e3e40ff34b630.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/85362822/1503054008",
+					"profile_link_color": "ED760E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "F0730C",
+					"profile_text_color": "0C2C85",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "3df4f427b5a60fea",
+					"url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json",
+					"place_type": "city",
+					"name": "San Antonio",
+					"full_name": "San Antonio, TX",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-98.778559,
+									29.141956
+								],
+								[
+									-98.302744,
+									29.141956
+								],
+								[
+									-98.302744,
+									29.693046
+								],
+								[
+									-98.778559,
+									29.693046
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 16,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:42:49 +0000 2018",
+			"id": 950045066155970600,
+			"id_str": "950045066155970562",
+			"text": "Spring semester starts tomorrow, ’Runners. We can’t wait to see you back on campus. #UTSA #SpringSemester…… https://t.co/OwyphtkXrz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UTSA",
+						"indices": [
+							84,
+							89
+						]
+					},
+					{
+						"text": "SpringSemester",
+						"indices": [
+							90,
+							105
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OwyphtkXrz",
+						"expanded_url": "https://twitter.com/i/web/status/950045066155970562",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://www.google.com\" rel=\"nofollow\">RoboticArm</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 950034816174559200,
+				"id_str": "950034816174559232",
+				"name": "RoboTweeter",
+				"screen_name": "tweeter_robo",
+				"location": "",
+				"description": "UTSA trending tweets, Roadrunner Heavy",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 0,
+				"friends_count": 5,
+				"listed_count": 0,
+				"created_at": "Sun Jan 07 16:02:05 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950047576732024832/Z43ufdFg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950047576732024832/Z43ufdFg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/950034816174559232/1515343834",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:42:49 +0000 2018",
+			"id": 950045065136795600,
+			"id_str": "950045065136795648",
+			"text": "RT @Forbes: Big U.S. cities with the fastest-growing economies: \n1. San Jose, CA\n2. Austin, TX\n3. San Antonio, TX\nhttps://t.co/mGuOJtnPsP h…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Forbes",
+						"name": "Forbes",
+						"id": 91478624,
+						"id_str": "91478624",
+						"indices": [
+							3,
+							10
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mGuOJtnPsP",
+						"expanded_url": "http://on.forbes.com/6011DJRCS",
+						"display_url": "on.forbes.com/6011DJRCS",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3250370425,
+				"id_str": "3250370425",
+				"name": "José",
+				"screen_name": "UTSA_Roadrunner",
+				"location": "San Antonio, TX",
+				"description": "#UTSA19 | 21 y.o. | Snap👻: UTSA_Roadrunner",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 196,
+				"friends_count": 110,
+				"listed_count": 1,
+				"created_at": "Sat Jun 20 04:01:46 +0000 2015",
+				"favourites_count": 12136,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5790,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950047048224727040/qcxc9te4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950047048224727040/qcxc9te4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3250370425/1515037775",
+				"profile_link_color": "F15A22",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Jan 07 15:15:03 +0000 2018",
+				"id": 950022978791788500,
+				"id_str": "950022978791788544",
+				"text": "Big U.S. cities with the fastest-growing economies: \n1. San Jose, CA\n2. Austin, TX\n3. San Antonio, TX… https://t.co/cmIue2ja3H",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/cmIue2ja3H",
+							"expanded_url": "https://twitter.com/i/web/status/950022978791788544",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 91478624,
+					"id_str": "91478624",
+					"name": "Forbes",
+					"screen_name": "Forbes",
+					"location": "New York, NY",
+					"description": "Official Twitter account of http://t.co/iVGiXAHX, homepage for the world's business leaders.",
+					"url": "http://t.co/KH6EtekF5q",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/KH6EtekF5q",
+									"expanded_url": "http://forbes.com",
+									"display_url": "forbes.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "http://t.co/iVGiXAHX",
+									"expanded_url": "http://Forbes.com",
+									"display_url": "Forbes.com",
+									"indices": [
+										28,
+										48
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 14362718,
+					"friends_count": 5688,
+					"listed_count": 54210,
+					"created_at": "Sat Nov 21 02:09:57 +0000 2009",
+					"favourites_count": 8211,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 173296,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "072250",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457626324/twitter_background_dark3.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457626324/twitter_background_dark3.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/882603270484766720/YFx4Lsh4_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/882603270484766720/YFx4Lsh4_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/91478624/1514830219",
+					"profile_link_color": "072250",
+					"profile_sidebar_border_color": "CCCCCC",
+					"profile_sidebar_fill_color": "F7F7F7",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 130,
+				"favorite_count": 254,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 130,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:40:58 +0000 2018",
+			"id": 950044601536131100,
+			"id_str": "950044601536131073",
+			"text": "RT @BulldogUTSA: This is what it feels like as a UTSA student returning to class on Monday, watching everyone else… https://t.co/wsXDAdoGHW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BulldogUTSA",
+						"name": "John Paiz",
+						"id": 3164500638,
+						"id_str": "3164500638",
+						"indices": [
+							3,
+							15
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wsXDAdoGHW",
+						"expanded_url": "https://twitter.com/i/web/status/950044601536131073",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://www.google.com\" rel=\"nofollow\">RoboticArm</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 950034816174559200,
+				"id_str": "950034816174559232",
+				"name": "RoboTweeter",
+				"screen_name": "tweeter_robo",
+				"location": "",
+				"description": "UTSA trending tweets, Roadrunner Heavy",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 0,
+				"friends_count": 5,
+				"listed_count": 0,
+				"created_at": "Sun Jan 07 16:02:05 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950047576732024832/Z43ufdFg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950047576732024832/Z43ufdFg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/950034816174559232/1515343834",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:39:33 +0000 2018",
+			"id": 950044242721861600,
+			"id_str": "950044242721861632",
+			"text": "RT @TJ_WJTV: HIGHLIGHTS: @SouthernMissMBB starters lit up the scoreboard, accounting for 89 of the team's 93 points in their 93-83 win over…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TJ_WJTV",
+						"name": "TJ Werre",
+						"id": 188969978,
+						"id_str": "188969978",
+						"indices": [
+							3,
+							11
+						]
+					},
+					{
+						"screen_name": "SouthernMissMBB",
+						"name": "Southern Miss MBB",
+						"id": 2686100574,
+						"id_str": "2686100574",
+						"indices": [
+							25,
+							41
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 435385619,
+				"id_str": "435385619",
+				"name": "Corvette",
+				"screen_name": "Cortez15_",
+				"location": "Kissimmee, FL",
+				"description": "600 R.I.P. Dom . R.I.P. Elijah #USM19",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2025,
+				"friends_count": 1409,
+				"listed_count": 3,
+				"created_at": "Tue Dec 13 00:38:36 +0000 2011",
+				"favourites_count": 7703,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22347,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648636214/a4ssvaz0u9tgtut3y8cr.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648636214/a4ssvaz0u9tgtut3y8cr.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908383443679154176/cNNLab7m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908383443679154176/cNNLab7m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/435385619/1435544583",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "181727",
+				"profile_sidebar_fill_color": "B20000",
+				"profile_text_color": "410001",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Jan 07 05:09:15 +0000 2018",
+				"id": 949870523357499400,
+				"id_str": "949870523357499392",
+				"text": "HIGHLIGHTS: @SouthernMissMBB starters lit up the scoreboard, accounting for 89 of the team's 93 points in their 93-… https://t.co/WlJMX0YVwD",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "SouthernMissMBB",
+							"name": "Southern Miss MBB",
+							"id": 2686100574,
+							"id_str": "2686100574",
+							"indices": [
+								12,
+								28
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/WlJMX0YVwD",
+							"expanded_url": "https://twitter.com/i/web/status/949870523357499392",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 188969978,
+					"id_str": "188969978",
+					"name": "TJ Werre",
+					"screen_name": "TJ_WJTV",
+					"location": "Jackson, MS",
+					"description": "Sports Director WJTV Jackson, MS. Proud Memphis Tiger ('08). Heisman voter. My last name is pronounced 'wary'.",
+					"url": "http://t.co/PmdMFcFcsR",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/PmdMFcFcsR",
+									"expanded_url": "http://www.wjtv.com/category/249298/sports",
+									"display_url": "wjtv.com/category/24929…",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3072,
+					"friends_count": 667,
+					"listed_count": 58,
+					"created_at": "Fri Sep 10 01:19:52 +0000 2010",
+					"favourites_count": 3256,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 16963,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/473986332889337857/tgp78RAX.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/473986332889337857/tgp78RAX.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/876939275610316800/Nt2GNanw_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/876939275610316800/Nt2GNanw_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/188969978/1432162625",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 7,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:39:27 +0000 2018",
+			"id": 950044218113822700,
+			"id_str": "950044218113822722",
+			"text": "RT @UTSA: Spring semester starts tomorrow, ’Runners. We can’t wait to see you back on campus. #UTSA #SpringSemester #NewYearNewRunners http…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UTSA",
+						"indices": [
+							94,
+							99
+						]
+					},
+					{
+						"text": "SpringSemester",
+						"indices": [
+							100,
+							115
+						]
+					},
+					{
+						"text": "NewYearNewRunners",
+						"indices": [
+							116,
+							134
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UTSA",
+						"name": "UTSA",
+						"id": 85362822,
+						"id_str": "85362822",
+						"indices": [
+							3,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 887071895014621200,
+				"id_str": "887071895014621184",
+				"name": "Free @ UTSA",
+				"screen_name": "utsafree",
+				"location": "San Antonio, TX",
+				"description": "The student source for information on what’s going on at The University of Texas at San Antonio. Not affiliated with UTSA or the University of Texas system.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 289,
+				"friends_count": 297,
+				"listed_count": 0,
+				"created_at": "Mon Jul 17 22:09:55 +0000 2017",
+				"favourites_count": 1485,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1659,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/887077105053335552/pVKhI4BA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/887077105053335552/pVKhI4BA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/887071895014621184/1504452380",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Jan 07 16:01:11 +0000 2018",
+				"id": 950034590244143100,
+				"id_str": "950034590244143105",
+				"text": "Spring semester starts tomorrow, ’Runners. We can’t wait to see you back on campus. #UTSA #SpringSemester… https://t.co/URxeSAcjzL",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "UTSA",
+							"indices": [
+								84,
+								89
+							]
+						},
+						{
+							"text": "SpringSemester",
+							"indices": [
+								90,
+								105
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/URxeSAcjzL",
+							"expanded_url": "https://twitter.com/i/web/status/950034590244143105",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 85362822,
+					"id_str": "85362822",
+					"name": "UTSA",
+					"screen_name": "UTSA",
+					"location": "San Antonio, TX",
+					"description": "Official Twitter account for #UTSA, San Antonio's university of the future. #Academics #Research #Service #Excellence",
+					"url": "https://t.co/VHxfjgW6aU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/VHxfjgW6aU",
+									"expanded_url": "http://www.utsa.edu",
+									"display_url": "utsa.edu",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 58477,
+					"friends_count": 1465,
+					"listed_count": 275,
+					"created_at": "Mon Oct 26 17:10:20 +0000 2009",
+					"favourites_count": 11748,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 12526,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "081936",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/863587681/2e5eaff36e28b079f18e3e40ff34b630.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/863587681/2e5eaff36e28b079f18e3e40ff34b630.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/85362822/1503054008",
+					"profile_link_color": "ED760E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "F0730C",
+					"profile_text_color": "0C2C85",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "3df4f427b5a60fea",
+					"url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json",
+					"place_type": "city",
+					"name": "San Antonio",
+					"full_name": "San Antonio, TX",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-98.778559,
+									29.141956
+								],
+								[
+									-98.302744,
+									29.141956
+								],
+								[
+									-98.302744,
+									29.693046
+								],
+								[
+									-98.778559,
+									29.693046
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 16,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:38:16 +0000 2018",
+			"id": 950043922906132500,
+			"id_str": "950043922906132482",
+			"text": "RT @NIRSAChamp: Next up:  The 10:30am #NIRSAFlag Men’s Semifinals and Women’s Championship Game.\n\nMEN\nUTSA v. Rutge… https://t.co/cSlz1CtuDa",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NIRSAFlag",
+						"indices": [
+							38,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NIRSAChamp",
+						"name": "NIRSA Championship",
+						"id": 355738215,
+						"id_str": "355738215",
+						"indices": [
+							3,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cSlz1CtuDa",
+						"expanded_url": "https://twitter.com/i/web/status/950043922906132482",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://www.google.com\" rel=\"nofollow\">RoboticArm</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 950034816174559200,
+				"id_str": "950034816174559232",
+				"name": "RoboTweeter",
+				"screen_name": "tweeter_robo",
+				"location": "",
+				"description": "UTSA trending tweets, Roadrunner Heavy",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 0,
+				"friends_count": 5,
+				"listed_count": 0,
+				"created_at": "Sun Jan 07 16:02:05 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950047576732024832/Z43ufdFg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950047576732024832/Z43ufdFg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/950034816174559232/1515343834",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:37:48 +0000 2018",
+			"id": 950043803536252900,
+			"id_str": "950043803536252928",
+			"text": "@robertlimon23 Ya dijo prince... Birds up #Utsa  Tweet Frm:",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Utsa",
+						"indices": [
+							42,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "robertlimon23",
+						"name": "Robert Limon",
+						"id": 1853113038,
+						"id_str": "1853113038",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://www.google.com\" rel=\"nofollow\">RoboticArm</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1853113038,
+			"in_reply_to_user_id_str": "1853113038",
+			"in_reply_to_screen_name": "robertlimon23",
+			"user": {
+				"id": 950034816174559200,
+				"id_str": "950034816174559232",
+				"name": "RoboTweeter",
+				"screen_name": "tweeter_robo",
+				"location": "",
+				"description": "UTSA trending tweets, Roadrunner Heavy",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 0,
+				"friends_count": 5,
+				"listed_count": 0,
+				"created_at": "Sun Jan 07 16:02:05 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950047576732024832/Z43ufdFg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950047576732024832/Z43ufdFg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/950034816174559232/1515343834",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:34:02 +0000 2018",
+			"id": 950042855426359300,
+			"id_str": "950042855426359298",
+			"text": "RT @BulldogUTSA: This is what it feels like as a UTSA student returning to class on Monday, watching everyone else have an extra week of wi…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BulldogUTSA",
+						"name": "John Paiz",
+						"id": 3164500638,
+						"id_str": "3164500638",
+						"indices": [
+							3,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147031793,
+				"id_str": "147031793",
+				"name": "🌱jade",
+				"screen_name": "AmazinglyJade",
+				"location": "austin, tx",
+				"description": "insta & sc: jadekiarraa | utsa 💋",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1158,
+				"friends_count": 1487,
+				"listed_count": 86,
+				"created_at": "Sun May 23 01:35:30 +0000 2010",
+				"favourites_count": 3464,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35563,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000054665910/49f4ed95173bbbbc18c9f4603febda14.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000054665910/49f4ed95173bbbbc18c9f4603febda14.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/949052700381138944/HEXOv2QC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/949052700381138944/HEXOv2QC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147031793/1507822529",
+				"profile_link_color": "4F0099",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sat Jan 06 23:41:19 +0000 2018",
+				"id": 949787999537172500,
+				"id_str": "949787999537172481",
+				"text": "This is what it feels like as a UTSA student returning to class on Monday, watching everyone else have an extra wee… https://t.co/6fk0dYXEuA",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/6fk0dYXEuA",
+							"expanded_url": "https://twitter.com/i/web/status/949787999537172481",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3164500638,
+					"id_str": "3164500638",
+					"name": "John Paiz",
+					"screen_name": "BulldogUTSA",
+					"location": "UTSA",
+					"description": "Former rep for Yik Yak, UTSA, I'm on TV sometimes. Snapchat: BulldogUTSA",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4863,
+					"friends_count": 4540,
+					"listed_count": 2,
+					"created_at": "Sun Apr 19 23:23:13 +0000 2015",
+					"favourites_count": 7847,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 305,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/800141607005630464/1jX1SEtY_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/800141607005630464/1jX1SEtY_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3164500638/1472967980",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 224,
+				"favorite_count": 653,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 224,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:33:55 +0000 2018",
+			"id": 950042825101635600,
+			"id_str": "950042825101635586",
+			"text": "RT @BulldogUTSA: This is what it feels like as a UTSA student returning to class on Monday, watching everyone else have an extra week of wi…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BulldogUTSA",
+						"name": "John Paiz",
+						"id": 3164500638,
+						"id_str": "3164500638",
+						"indices": [
+							3,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2344163000,
+				"id_str": "2344163000",
+				"name": "Desiree",
+				"screen_name": "SomeColunga",
+				"location": "",
+				"description": "Jeremiah 29:11 ✨",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1066,
+				"friends_count": 940,
+				"listed_count": 3,
+				"created_at": "Fri Feb 14 21:54:17 +0000 2014",
+				"favourites_count": 13538,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18338,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947935981617008647/DZMge0O8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947935981617008647/DZMge0O8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2344163000/1499707012",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sat Jan 06 23:41:19 +0000 2018",
+				"id": 949787999537172500,
+				"id_str": "949787999537172481",
+				"text": "This is what it feels like as a UTSA student returning to class on Monday, watching everyone else have an extra wee… https://t.co/6fk0dYXEuA",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/6fk0dYXEuA",
+							"expanded_url": "https://twitter.com/i/web/status/949787999537172481",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3164500638,
+					"id_str": "3164500638",
+					"name": "John Paiz",
+					"screen_name": "BulldogUTSA",
+					"location": "UTSA",
+					"description": "Former rep for Yik Yak, UTSA, I'm on TV sometimes. Snapchat: BulldogUTSA",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4863,
+					"friends_count": 4540,
+					"listed_count": 2,
+					"created_at": "Sun Apr 19 23:23:13 +0000 2015",
+					"favourites_count": 7847,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 305,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/800141607005630464/1jX1SEtY_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/800141607005630464/1jX1SEtY_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3164500638/1472967980",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 224,
+				"favorite_count": 653,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 224,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:32:18 +0000 2018",
+			"id": 950042419302629400,
+			"id_str": "950042419302629376",
+			"text": "RT @NIRSAChamp: Next up:  The 10:30am #NIRSAFlag Men’s Semifinals and Women’s Championship Game.\n\nMEN\nUTSA v. Rutgers (@RURec)\nTexas Southe…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NIRSAFlag",
+						"indices": [
+							38,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NIRSAChamp",
+						"name": "NIRSA Championship",
+						"id": 355738215,
+						"id_str": "355738215",
+						"indices": [
+							3,
+							14
+						]
+					},
+					{
+						"screen_name": "RURec",
+						"name": "Rutgers Recreation",
+						"id": 28626957,
+						"id_str": "28626957",
+						"indices": [
+							119,
+							125
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 887071895014621200,
+				"id_str": "887071895014621184",
+				"name": "Free @ UTSA",
+				"screen_name": "utsafree",
+				"location": "San Antonio, TX",
+				"description": "The student source for information on what’s going on at The University of Texas at San Antonio. Not affiliated with UTSA or the University of Texas system.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 289,
+				"friends_count": 297,
+				"listed_count": 0,
+				"created_at": "Mon Jul 17 22:09:55 +0000 2017",
+				"favourites_count": 1485,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1659,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/887077105053335552/pVKhI4BA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/887077105053335552/pVKhI4BA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/887071895014621184/1504452380",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Jan 07 16:18:35 +0000 2018",
+				"id": 950038967457640400,
+				"id_str": "950038967457640450",
+				"text": "Next up:  The 10:30am #NIRSAFlag Men’s Semifinals and Women’s Championship Game.\n\nMEN\nUTSA v. Rutgers (@RURec)\nTexa… https://t.co/wm2kGzNRbS",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "NIRSAFlag",
+							"indices": [
+								22,
+								32
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "RURec",
+							"name": "Rutgers Recreation",
+							"id": 28626957,
+							"id_str": "28626957",
+							"indices": [
+								103,
+								109
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/wm2kGzNRbS",
+							"expanded_url": "https://twitter.com/i/web/status/950038967457640450",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 355738215,
+					"id_str": "355738215",
+					"name": "NIRSA Championship",
+					"screen_name": "NIRSAChamp",
+					"location": "Corvalis, Oregon",
+					"description": "NIRSA: Leaders in Collegiate Recreation! Follow us for updates and info on the NIRSA Championship Series!",
+					"url": "https://t.co/pdhcHVs8aG",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/pdhcHVs8aG",
+									"expanded_url": "http://play.nirsa.net",
+									"display_url": "play.nirsa.net",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2822,
+					"friends_count": 518,
+					"listed_count": 19,
+					"created_at": "Mon Aug 15 20:24:01 +0000 2011",
+					"favourites_count": 698,
+					"utc_offset": -18000,
+					"time_zone": "Quito",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 8462,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/700675129/24f5da48e5a7d03ce97b8b8e09f229e3.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/700675129/24f5da48e5a7d03ce97b8b8e09f229e3.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/849671869640921088/pZxWHLEL_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/849671869640921088/pZxWHLEL_normal.jpg",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:32:05 +0000 2018",
+			"id": 950042367276585000,
+			"id_str": "950042367276584962",
+			"text": "RT @NIRSAChamp: Next up:  The 10:30am #NIRSAFlag Men’s Semifinals and Women’s Championship Game.\n\nMEN\nUTSA v. Rutgers (@RURec)\nTexas Southe…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NIRSAFlag",
+						"indices": [
+							38,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NIRSAChamp",
+						"name": "NIRSA Championship",
+						"id": 355738215,
+						"id_str": "355738215",
+						"indices": [
+							3,
+							14
+						]
+					},
+					{
+						"screen_name": "RURec",
+						"name": "Rutgers Recreation",
+						"id": 28626957,
+						"id_str": "28626957",
+						"indices": [
+							119,
+							125
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2329528849,
+				"id_str": "2329528849",
+				"name": "primal",
+				"screen_name": "loneranger158",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 859,
+				"friends_count": 866,
+				"listed_count": 18,
+				"created_at": "Wed Feb 05 23:53:41 +0000 2014",
+				"favourites_count": 30775,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26751,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947192440414449665/rqtfTFBi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947192440414449665/rqtfTFBi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2329528849/1514663252",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Jan 07 16:18:35 +0000 2018",
+				"id": 950038967457640400,
+				"id_str": "950038967457640450",
+				"text": "Next up:  The 10:30am #NIRSAFlag Men’s Semifinals and Women’s Championship Game.\n\nMEN\nUTSA v. Rutgers (@RURec)\nTexa… https://t.co/wm2kGzNRbS",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "NIRSAFlag",
+							"indices": [
+								22,
+								32
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "RURec",
+							"name": "Rutgers Recreation",
+							"id": 28626957,
+							"id_str": "28626957",
+							"indices": [
+								103,
+								109
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/wm2kGzNRbS",
+							"expanded_url": "https://twitter.com/i/web/status/950038967457640450",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 355738215,
+					"id_str": "355738215",
+					"name": "NIRSA Championship",
+					"screen_name": "NIRSAChamp",
+					"location": "Corvalis, Oregon",
+					"description": "NIRSA: Leaders in Collegiate Recreation! Follow us for updates and info on the NIRSA Championship Series!",
+					"url": "https://t.co/pdhcHVs8aG",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/pdhcHVs8aG",
+									"expanded_url": "http://play.nirsa.net",
+									"display_url": "play.nirsa.net",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2822,
+					"friends_count": 518,
+					"listed_count": 19,
+					"created_at": "Mon Aug 15 20:24:01 +0000 2011",
+					"favourites_count": 698,
+					"utc_offset": -18000,
+					"time_zone": "Quito",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 8462,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/700675129/24f5da48e5a7d03ce97b8b8e09f229e3.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/700675129/24f5da48e5a7d03ce97b8b8e09f229e3.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/849671869640921088/pZxWHLEL_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/849671869640921088/pZxWHLEL_normal.jpg",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:26:53 +0000 2018",
+			"id": 950041056984420400,
+			"id_str": "950041056984420354",
+			"text": "RT @NIRSAChamp: Next up:  The 10:30am #NIRSAFlag Men’s Semifinals and Women’s Championship Game.\n\nMEN\nUTSA v. Rutgers (@RURec)\nTexas Southe…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NIRSAFlag",
+						"indices": [
+							38,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NIRSAChamp",
+						"name": "NIRSA Championship",
+						"id": 355738215,
+						"id_str": "355738215",
+						"indices": [
+							3,
+							14
+						]
+					},
+					{
+						"screen_name": "RURec",
+						"name": "Rutgers Recreation",
+						"id": 28626957,
+						"id_str": "28626957",
+						"indices": [
+							119,
+							125
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 566810158,
+				"id_str": "566810158",
+				"name": "Bobby",
+				"screen_name": "BBBobbyMireles",
+				"location": "Robstown/San Antonio",
+				"description": "Trusting the Process | Insta: bobmireles55 | #UTSA @KatHirle",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 601,
+				"friends_count": 287,
+				"listed_count": 2,
+				"created_at": "Mon Apr 30 01:25:07 +0000 2012",
+				"favourites_count": 6260,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23165,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/607066774/n8e7ky4x47c10020mmry.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/607066774/n8e7ky4x47c10020mmry.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876617821437935617/DF_0eI3d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876617821437935617/DF_0eI3d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/566810158/1512885767",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Jan 07 16:18:35 +0000 2018",
+				"id": 950038967457640400,
+				"id_str": "950038967457640450",
+				"text": "Next up:  The 10:30am #NIRSAFlag Men’s Semifinals and Women’s Championship Game.\n\nMEN\nUTSA v. Rutgers (@RURec)\nTexa… https://t.co/wm2kGzNRbS",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "NIRSAFlag",
+							"indices": [
+								22,
+								32
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "RURec",
+							"name": "Rutgers Recreation",
+							"id": 28626957,
+							"id_str": "28626957",
+							"indices": [
+								103,
+								109
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/wm2kGzNRbS",
+							"expanded_url": "https://twitter.com/i/web/status/950038967457640450",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 355738215,
+					"id_str": "355738215",
+					"name": "NIRSA Championship",
+					"screen_name": "NIRSAChamp",
+					"location": "Corvalis, Oregon",
+					"description": "NIRSA: Leaders in Collegiate Recreation! Follow us for updates and info on the NIRSA Championship Series!",
+					"url": "https://t.co/pdhcHVs8aG",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/pdhcHVs8aG",
+									"expanded_url": "http://play.nirsa.net",
+									"display_url": "play.nirsa.net",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2822,
+					"friends_count": 518,
+					"listed_count": 19,
+					"created_at": "Mon Aug 15 20:24:01 +0000 2011",
+					"favourites_count": 698,
+					"utc_offset": -18000,
+					"time_zone": "Quito",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 8462,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/700675129/24f5da48e5a7d03ce97b8b8e09f229e3.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/700675129/24f5da48e5a7d03ce97b8b8e09f229e3.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/849671869640921088/pZxWHLEL_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/849671869640921088/pZxWHLEL_normal.jpg",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Jan 07 16:21:38 +0000 2018",
+			"id": 950039737510846500,
+			"id_str": "950039737510846466",
+			"text": "🙄🙄🙄🙄🙄🙄🙄 https://t.co/k4QtMf0pgB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/k4QtMf0pgB",
+						"expanded_url": "https://twitter.com/utsa/status/950034590244143105",
+						"display_url": "twitter.com/utsa/status/95…",
+						"indices": [
+							8,
+							31
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "und",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1530942211,
+				"id_str": "1530942211",
+				"name": "sarah ••",
+				"screen_name": "_sarah334",
+				"location": "san antone ",
+				"description": "classy, sassy, and a lil smartassy. UTSA",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1102,
+				"friends_count": 890,
+				"listed_count": 0,
+				"created_at": "Wed Jun 19 13:54:12 +0000 2013",
+				"favourites_count": 17092,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24890,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000003820817/3094dbb35d2d78e13a4c869a58e719ad.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000003820817/3094dbb35d2d78e13a4c869a58e719ad.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/943365546225094656/rzoZcHRr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/943365546225094656/rzoZcHRr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1530942211/1515000999",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 950034590244143100,
+			"quoted_status_id_str": "950034590244143105",
+			"quoted_status": {
+				"created_at": "Sun Jan 07 16:01:11 +0000 2018",
+				"id": 950034590244143100,
+				"id_str": "950034590244143105",
+				"text": "Spring semester starts tomorrow, ’Runners. We can’t wait to see you back on campus. #UTSA #SpringSemester… https://t.co/URxeSAcjzL",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "UTSA",
+							"indices": [
+								84,
+								89
+							]
+						},
+						{
+							"text": "SpringSemester",
+							"indices": [
+								90,
+								105
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/URxeSAcjzL",
+							"expanded_url": "https://twitter.com/i/web/status/950034590244143105",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "und",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 85362822,
+					"id_str": "85362822",
+					"name": "UTSA",
+					"screen_name": "UTSA",
+					"location": "San Antonio, TX",
+					"description": "Official Twitter account for #UTSA, San Antonio's university of the future. #Academics #Research #Service #Excellence",
+					"url": "https://t.co/VHxfjgW6aU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/VHxfjgW6aU",
+									"expanded_url": "http://www.utsa.edu",
+									"display_url": "utsa.edu",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 58477,
+					"friends_count": 1465,
+					"listed_count": 275,
+					"created_at": "Mon Oct 26 17:10:20 +0000 2009",
+					"favourites_count": 11748,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 12526,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "081936",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/863587681/2e5eaff36e28b079f18e3e40ff34b630.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/863587681/2e5eaff36e28b079f18e3e40ff34b630.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/758318343300390912/p6_26DMr_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/85362822/1503054008",
+					"profile_link_color": "ED760E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "F0730C",
+					"profile_text_color": "0C2C85",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "3df4f427b5a60fea",
+					"url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json",
+					"place_type": "city",
+					"name": "San Antonio",
+					"full_name": "San Antonio, TX",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-98.778559,
+									29.141956
+								],
+								[
+									-98.302744,
+									29.141956
+								],
+								[
+									-98.302744,
+									29.693046
+								],
+								[
+									-98.778559,
+									29.693046
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 16,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		{
+			"created_at": "Sun Jan 07 16:20:47 +0000 2018",
+			"id": 950039522586349600,
+			"id_str": "950039522586349568",
+			"text": "RT @DougRipleyODU: #CUSAWBK Today (Jan. 7):\n#UTEP at #FAU, 2 ET/12 MT\n#Marshall at #FIU, 2 ET\n#UTSA at #Rice, 3 ET/2 CT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CUSAWBK",
+						"indices": [
+							19,
+							27
+						]
+					},
+					{
+						"text": "UTEP",
+						"indices": [
+							44,
+							49
+						]
+					},
+					{
+						"text": "FAU",
+						"indices": [
+							53,
+							57
+						]
+					},
+					{
+						"text": "Marshall",
+						"indices": [
+							70,
+							79
+						]
+					},
+					{
+						"text": "FIU",
+						"indices": [
+							83,
+							87
+						]
+					},
+					{
+						"text": "UTSA",
+						"indices": [
+							94,
+							99
+						]
+					},
+					{
+						"text": "Rice",
+						"indices": [
+							103,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DougRipleyODU",
+						"name": "Doug Ripley",
+						"id": 745177969,
+						"id_str": "745177969",
+						"indices": [
+							3,
+							17
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "da",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 606870524,
+				"id_str": "606870524",
+				"name": "CUSAbbs",
+				"screen_name": "CUSAbbs",
+				"location": "Texas",
+				"description": "Conference USA fan forum. Not officially affiliated with C-USA.",
+				"url": "https://t.co/ynAuvzPTIJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ynAuvzPTIJ",
+								"expanded_url": "http://cusa.csnbbs.com",
+								"display_url": "cusa.csnbbs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3063,
+				"friends_count": 812,
+				"listed_count": 54,
+				"created_at": "Wed Jun 13 04:02:29 +0000 2012",
+				"favourites_count": 41302,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32610,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EEEDF2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/603467123/17d8r1pew19wmz8fazw9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/603467123/17d8r1pew19wmz8fazw9.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883529061607235585/E9m48pN__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883529061607235585/E9m48pN__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/606870524/1499485007",
+				"profile_link_color": "003865",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Jan 07 15:56:07 +0000 2018",
+				"id": 950033312449466400,
+				"id_str": "950033312449466369",
+				"text": "#CUSAWBK Today (Jan. 7):\n#UTEP at #FAU, 2 ET/12 MT\n#Marshall at #FIU, 2 ET\n#UTSA at #Rice, 3 ET/2 CT",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "CUSAWBK",
+							"indices": [
+								0,
+								8
+							]
+						},
+						{
+							"text": "UTEP",
+							"indices": [
+								25,
+								30
+							]
+						},
+						{
+							"text": "FAU",
+							"indices": [
+								34,
+								38
+							]
+						},
+						{
+							"text": "Marshall",
+							"indices": [
+								51,
+								60
+							]
+						},
+						{
+							"text": "FIU",
+							"indices": [
+								64,
+								68
+							]
+						},
+						{
+							"text": "UTSA",
+							"indices": [
+								75,
+								80
+							]
+						},
+						{
+							"text": "Rice",
+							"indices": [
+								84,
+								89
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"metadata": {
+					"iso_language_code": "da",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 745177969,
+					"id_str": "745177969",
+					"name": "Doug Ripley",
+					"screen_name": "DougRipleyODU",
+					"location": "Norfolk, VA",
+					"description": "@ODUWBB & @ODUBaseball PxP, @ODUFootball Sideline Rep on #ODUSports Radio Ntwk (thoughts/opinions my own). Student-Athletes DM to permit me to link to your acct",
+					"url": "https://t.co/4t846C33lE",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/4t846C33lE",
+									"expanded_url": "http://ODUsports.com",
+									"display_url": "ODUsports.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2104,
+					"friends_count": 2220,
+					"listed_count": 77,
+					"created_at": "Wed Aug 08 13:15:49 +0000 2012",
+					"favourites_count": 3708,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 77802,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/924755869740556288/z9rhh3y__normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/924755869740556288/z9rhh3y__normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/745177969/1493646101",
+					"profile_link_color": "05335C",
+					"profile_sidebar_border_color": "A8C7F7",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "da"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "da"
+		},
+		{
+			"created_at": "Sun Jan 07 16:19:06 +0000 2018",
+			"id": 950039100022775800,
+			"id_str": "950039100022775808",
+			"text": "@steflema We are finalizing the logistics with two local universities. More details will come soon.  We held our la… https://t.co/EsZTXzUQHa",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "steflema",
+						"name": "Stephanie Lema",
+						"id": 164062572,
+						"id_str": "164062572",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EsZTXzUQHa",
+						"expanded_url": "https://twitter.com/i/web/status/950039100022775808",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": 949855015681716200,
+			"in_reply_to_status_id_str": "949855015681716225",
+			"in_reply_to_user_id": 164062572,
+			"in_reply_to_user_id_str": "164062572",
+			"in_reply_to_screen_name": "steflema",
+			"user": {
+				"id": 943178028657643500,
+				"id_str": "943178028657643520",
+				"name": "Javier Morales",
+				"screen_name": "ParentsAsk",
+				"location": "San Antonio, Texas",
+				"description": "Javier Morales, Founder of Parents Ask - Grant Writer, Special Education Advocate and Author.",
+				"url": "https://t.co/OyRnN21XpL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OyRnN21XpL",
+								"expanded_url": "http://www.parentsask.net",
+								"display_url": "parentsask.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3,
+				"friends_count": 26,
+				"listed_count": 0,
+				"created_at": "Tue Dec 19 17:55:40 +0000 2017",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/946407759104430080/WwLC7I4X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/946407759104430080/WwLC7I4X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/943178028657643520/1515003459",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		}
+	],
+	"search_metadata": {
+		"completed_in": 0.064,
+		"max_id": 950048769931989000,
+		"max_id_str": "950048769931988993",
+		"next_results": "?max_id=950039100022775807&q=UTSA&count=30&include_entities=1",
+		"query": "UTSA",
+		"refresh_url": "?since_id=950048769931988993&q=UTSA&include_entities=1",
+		"count": 30,
+		"since_id": 0,
+		"since_id_str": "0"
+	}
+}
