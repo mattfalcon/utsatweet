@@ -71,7 +71,7 @@ client.get('search/tweets', {q: "UTSA", count: 30}, function(error, tweets, resp
 
   //============POST TWEET ===========================================
   //Test case for tweeting out 
-  client.post('statuses/update', {status: selected_tweet.text + "  Tweet Frm:" + selected_tweet.location + selected_tweet.name}, function(error, tweet, response) {
+  client.post('statuses/update', {status: selected_tweet.text + "  Tweet Frm:" + selected_tweet.location + ", " + selected_tweet.name}, function(error, tweet, response) {
     if (!error) {
       console.log(tweet);
     }
