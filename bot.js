@@ -31,7 +31,7 @@ var historic_tweets = [];
 
 var TweetUTSA = function () {
 //Run a search for best thing I ever ate
-client.get('search/tweets', {q: "UTSA", count: 50}, function(error, tweets, response) {
+client.get('search/tweets', {q: "UTSA", count: 50, result_type: mixed}, function(error, tweets, response) {
   // console.log(tweets);
 
   //loop through all tweets possible
@@ -65,7 +65,7 @@ client.get('search/tweets', {q: "UTSA", count: 50}, function(error, tweets, resp
 
   //============POST TWEET ===========================================
   //Test case for tweeting out 
-  client.post('statuses/update', {status: selected_tweet.text + "  Tweet Frm:" + selected_tweet.location + ", " + selected_tweet.name + "#BirdsUp"}, function(error, tweet, response) {
+  client.post('statuses/update', {status: selected_tweet.text + "  Tweet Frm:" + selected_tweet.location + ", " + selected_tweet.name + " " + "#BirdsUp"}, function(error, tweet, response) {
     if (!error) {
       console.log(tweet);
     }
