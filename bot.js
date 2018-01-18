@@ -11,33 +11,34 @@
 
 //=================================
 
-//TwitterAPI Stuff
-//  Access Token: 	914539088090451969-KgxXZHWi5gsQ8ot5WMyFpZCTtT2K8Pl
-//  Access Token Secret: AmDKRo2CaibtsPWrGmyjUS0z9zhkbgkrrRsoPLqVxiqeC 
-//  Consumer Key API KEY: o1eINkvMFZcoL1YyAjHgDivy9
-//  COnsumer Secret API Secret: tWwb7BeijDvzqrsdBzpcB4IpDdVrL9qHCVj5Wi6xYmkfRoOnlN
- 
-
 //Connected to twitter
 var Twitter = require('twitter');
 var fs = require('fs');
 
 //API KEYS
+// var client = new Twitter({
+//  consumer_key: 'ciUw1kZ6oeQxrN0f2ObflNQMp',
+//  consumer_secret: 'GQpD4cv3TjCweiiPdQCG87or1S3FAn0EeUP3KxIThRbKwsYwWB',
+//  access_token_key: '950034816174559232-ZTO7JWVgdpctxJtsLdkDfXkRLS5Rzta',
+//  access_token_secret: 'P9pzcO8IbJTZbZXtMyz2wpN34ZDzIDP5tHiltZI75nf1N'
+// });
+
 var client = new Twitter({
- consumer_key: 'ciUw1kZ6oeQxrN0f2ObflNQMp',
- consumer_secret: 'GQpD4cv3TjCweiiPdQCG87or1S3FAn0EeUP3KxIThRbKwsYwWB',
- access_token_key: '950034816174559232-ZTO7JWVgdpctxJtsLdkDfXkRLS5Rzta',
- access_token_secret: 'P9pzcO8IbJTZbZXtMyz2wpN34ZDzIDP5tHiltZI75nf1N'
+  consumer_key: process.env.TWITTER_CONSUMER_KEY,
+  consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
+  access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
+  access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
 });
+
 
 // Tweet Options 
 var all_tweets = [];
 var historic_tweets = [];
-
+  
 
 var TweetUTSA = function () {
 //Run a search for best thing I ever ate
-client.get('search/tweets', {q: "UTSA", count: 30}, function(error, tweets, response) {
+client.get('search/tweets', {q: "UTSA", count: 50}, function(error, tweets, response) {
   // console.log(tweets);
 
   //loop through all tweets possible
@@ -71,7 +72,7 @@ client.get('search/tweets', {q: "UTSA", count: 30}, function(error, tweets, resp
 
   //============POST TWEET ===========================================
   //Test case for tweeting out 
-  client.post('statuses/update', {status: selected_tweet.text + "  Tweet Frm:" + selected_tweet.location + ", " + selected_tweet.name}, function(error, tweet, response) {
+  client.post('statuses/update', {status: "RT:" + selected_tweet.text + "  Tweet Frm:" + selected_tweet.location + ", " + selected_tweet.name + "#BirdsUp"}, function(error, tweet, response) {
     if (!error) {
       console.log(tweet);
     }
