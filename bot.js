@@ -65,7 +65,7 @@ client.get('search/tweets', {q: "powerapps", count: 50}, function(error, tweets,
 
   //============POST TWEET ===========================================
   //Test case for tweeting out 
-  client.post('statuses/update', {status: selected_tweet.text + "  Tweet Frm:" + selected_tweet.location + ", " + selected_tweet.name + " " + "#Office365"}, function(error, tweet, response) {
+  client.post('statuses/update', {status: "RT @" + selected_tweet.screen_name + " " + selected_tweet.text + "  Tweet Frm:" + selected_tweet.location + " " + " " + "#Office365"}, function(error, tweet, response) {
     if (!error) {
       console.log(tweet);
     }
