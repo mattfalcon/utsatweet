@@ -1,4 +1,3 @@
-
 //Gameplan
 // 1. Create a Twitter Account (DONE)
 // 2. Run a search for BEst thing I ever ate section (DONE)
@@ -16,21 +15,12 @@ var Twitter = require('twitter');
 var fs = require('fs');
 
 //==================API KEYS==============================
-// var client = new Twitter({
-//   consumer_key: process.env.TWITTER_CONSUMER_KEY,
-//   consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
-//   access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
-//   access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
-// });
-
-//API KEYS
 var client = new Twitter({
-  consumer_key: '0028E6wfSeJvYZ4XnFL5YBqMm',
-  consumer_secret: '465yxieks9XvEOzjrTxQaWWQtuP5Kfe8MTkh022QbiGPKK37MA',
-  access_token_key: '914539088090451969-7wgLDZw6IGpnK1ktnyBMNCEQ6GzyoMv',
-  access_token_secret: '8OgHKofCsFOocJpjkg4PM1kG1U0TXH1oxPqod8LtqZCHs'
- });
-
+  consumer_key: process.env.TWITTER_CONSUMER_KEY,
+  consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
+  access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
+  access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
+});
 
 
 // Tweet Options 
@@ -74,13 +64,14 @@ client.get('search/tweets', {q: "powerapps", count: 50}, function(error, tweets,
 
   //============POST TWEET ===========================================
   //Test case for tweeting out 
-  client.post('statuses/update', {status: "RT @" + selected_tweet.screen_name + " " + selected_tweet.text + "  Tweet Frm: " + selected_tweet.location + " #office365 @STOP_PRE"}, function(error, tweet, response) {
+  client.post('statuses/update', {status: selected_tweet.text + "  Tweet Frm:" + selected_tweet.location + ", " + selected_tweet.name + " " + "#BirdsUp"}, function(error, tweet, response) {
     if (!error) {
       console.log(tweet);
     }
     }); 
 
    }
+
 //==============FS WRITE ================================================
 
 //save twitter objects in JSON
@@ -107,4 +98,4 @@ fs.writeFile("historic_tweets.json", JSON.stringify(historic_tweets, null, '\t')
 
 //Calling Function
 TweetUTSA()
-// setInterval(TweetUTSA, 10800000);
+setInterval(TweetUTSA, 10800000);
