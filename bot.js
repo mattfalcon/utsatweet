@@ -16,12 +16,21 @@ var Twitter = require('twitter');
 var fs = require('fs');
 
 //==================API KEYS==============================
+// var client = new Twitter({
+//   consumer_key: process.env.TWITTER_CONSUMER_KEY,
+//   consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
+//   access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
+//   access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
+// });
+
+//API KEYS
 var client = new Twitter({
-  consumer_key: process.env.TWITTER_CONSUMER_KEY,
-  consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
-  access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
-  access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
-});
+  consumer_key: '0028E6wfSeJvYZ4XnFL5YBqMm',
+  consumer_secret: '465yxieks9XvEOzjrTxQaWWQtuP5Kfe8MTkh022QbiGPKK37MA',
+  access_token_key: '914539088090451969-7wgLDZw6IGpnK1ktnyBMNCEQ6GzyoMv',
+  access_token_secret: '8OgHKofCsFOocJpjkg4PM1kG1U0TXH1oxPqod8LtqZCHs'
+ });
+
 
 
 // Tweet Options 
@@ -98,4 +107,4 @@ fs.writeFile("historic_tweets.json", JSON.stringify(historic_tweets, null, '\t')
 
 //Calling Function
 TweetUTSA()
-setInterval(TweetUTSA, 10800000);
+// setInterval(TweetUTSA, 10800000);
