@@ -18,7 +18,7 @@ var historic_tweets = [];
 
 var TweetUTSA = function () {
 //Run a search for best thing I ever ate
-client.get('search/tweets', {q: "dallas", count: 30}, function(error, tweets, response) {
+client.get('search/tweets', {q: "Powerapps", count: 30}, function(error, tweets, response) {
   // console.log(tweets);
 
   //loop through all tweets possible
