@@ -5,10 +5,10 @@ var fs = require('fs');
 
 //API KEYS
 var client = new Twitter({
-  consumer_key: process.env.TWITTER_CONSUMER_KEY,
-  consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
-  access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
-  access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
+ consumer_key: 'nKsLabEYiOW5HYC65m1eU5Idg',
+ consumer_secret: 'd6wCkFaTMv3Ei4IOJQfkict3D0pAaYQg7Zz5PVkC585bNtHSJ8',
+ access_token_key: '950034816174559232-SPc79sIX5OemNplvergMtdT2c3O843B',
+ access_token_secret: 'wlaZv1LooZX9j8ueGCjcXfzb8dNPN37LZt6edLRP0CJx8'
 });
 
 // Tweet Options 
@@ -18,7 +18,7 @@ var historic_tweets = [];
 
 var TweetUTSA = function () {
 //Run a search for best thing I ever ate
-client.get('search/tweets', {q: "powerapps", count: 30}, function(error, tweets, response) {
+client.get('search/tweets', {q: "dallas", count: 30}, function(error, tweets, response) {
   // console.log(tweets);
 
   //loop through all tweets possible
