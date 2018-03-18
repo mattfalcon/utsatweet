@@ -1,8 +1,6049 @@
 {
-	"errors": [
+	"statuses": [
 		{
-			"code": 89,
-			"message": "Invalid or expired token."
+			"created_at": "Sun Mar 18 20:51:50 +0000 2018",
+			"id": 975474886083797000,
+			"id_str": "975474886083796997",
+			"text": "RT @ArtsyPowerApper: We are reviewing the value of my videos for use on the PowerApps YT channel. Would you please ‘like’ the videos that a…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ArtsyPowerApper",
+						"name": "Audrie Gordon",
+						"id": 816725942844260400,
+						"id_str": "816725942844260352",
+						"indices": [
+							3,
+							19
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474372065,
+				"id_str": "2474372065",
+				"name": "Phil Worrell",
+				"screen_name": "Worrelpa",
+				"location": "Nyon, Switzerland",
+				"description": "Long time IT pro / business analyst keeping up with #Office365 #Sharepoint and all things in between from Switzerland (personal opinions only.)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1727,
+				"friends_count": 4229,
+				"listed_count": 47,
+				"created_at": "Fri May 02 18:04:33 +0000 2014",
+				"favourites_count": 18057,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19961,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/462291844575936513/ZsipOSmR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/462291844575936513/ZsipOSmR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474372065/1489944774",
+				"profile_link_color": "001EB3",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Mar 18 18:54:23 +0000 2018",
+				"id": 975445326512365600,
+				"id_str": "975445326512365568",
+				"text": "We are reviewing the value of my videos for use on the PowerApps YT channel. Would you please ‘like’ the videos tha… https://t.co/sYaccZ3B9M",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/sYaccZ3B9M",
+							"expanded_url": "https://twitter.com/i/web/status/975445326512365568",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 816725942844260400,
+					"id_str": "816725942844260352",
+					"name": "Audrie Gordon",
+					"screen_name": "ArtsyPowerApper",
+					"location": "Redmond, WA",
+					"description": "Microsoft employee and big fan of mobile tools that solve real business problems, & apps that enhance my quality of life! Sharing what's new in PowerApps!",
+					"url": "https://t.co/gm6WVcFPgc",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gm6WVcFPgc",
+									"expanded_url": "http://www.microsoft.com",
+									"display_url": "microsoft.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 592,
+					"friends_count": 157,
+					"listed_count": 28,
+					"created_at": "Wed Jan 04 19:20:13 +0000 2017",
+					"favourites_count": 496,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 649,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/816725942844260352/1483567412",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "59454533edec2571",
+					"url": "https://api.twitter.com/1.1/geo/id/59454533edec2571.json",
+					"place_type": "city",
+					"name": "Woodinville",
+					"full_name": "Woodinville, WA",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-122.1764064,
+									47.723831
+								],
+								[
+									-122.108973,
+									47.723831
+								],
+								[
+									-122.108973,
+									47.776251
+								],
+								[
+									-122.1764064,
+									47.776251
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 7,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 20:31:47 +0000 2018",
+			"id": 975469840025649200,
+			"id_str": "975469840025649153",
+			"text": "RT @dchristian19: Looking forward to speaking @SPSVB in a weeks time. Interested in learning about physical buttons with @MicrosoftFlow &amp; @…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dchristian19",
+						"name": "Daniel Christian",
+						"id": 39605850,
+						"id_str": "39605850",
+						"indices": [
+							3,
+							16
+						]
+					},
+					{
+						"screen_name": "SPSVB",
+						"name": "SPS Virginia Beach",
+						"id": 396117425,
+						"id_str": "396117425",
+						"indices": [
+							46,
+							52
+						]
+					},
+					{
+						"screen_name": "MicrosoftFlow",
+						"name": "Microsoft Flow",
+						"id": 722190257244889100,
+						"id_str": "722190257244889088",
+						"indices": [
+							121,
+							135
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 94071797,
+				"id_str": "94071797",
+				"name": "Fabio Franzini",
+				"screen_name": "franzinifabio",
+				"location": "Verona, Italy",
+				"description": "Office Servers and Services MVP and Microsoft Web Stack lover. Senior Consultant, Software Engineer & Trainer.",
+				"url": "https://t.co/rkUk0fw7nA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rkUk0fw7nA",
+								"expanded_url": "http://www.fabiofranzini.com",
+								"display_url": "fabiofranzini.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1285,
+				"friends_count": 752,
+				"listed_count": 267,
+				"created_at": "Wed Dec 02 11:34:02 +0000 2009",
+				"favourites_count": 4562,
+				"utc_offset": 3600,
+				"time_zone": "Rome",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14276,
+				"lang": "it",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899910543410069504/-cgpfNJS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899910543410069504/-cgpfNJS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/94071797/1484736456",
+				"profile_link_color": "0078D7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Mar 18 01:39:06 +0000 2018",
+				"id": 975184788436013000,
+				"id_str": "975184788436013056",
+				"text": "Looking forward to speaking @SPSVB in a weeks time. Interested in learning about physical buttons with… https://t.co/PKoWF8OOEM",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "SPSVB",
+							"name": "SPS Virginia Beach",
+							"id": 396117425,
+							"id_str": "396117425",
+							"indices": [
+								28,
+								34
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/PKoWF8OOEM",
+							"expanded_url": "https://twitter.com/i/web/status/975184788436013056",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 39605850,
+					"id_str": "39605850",
+					"name": "Daniel Christian",
+					"screen_name": "dchristian19",
+					"location": "NC, USA",
+					"description": "A believer in Christ, husband to a beautiful wife, father to two handsome boys and a Microsoft MVP. #PowerAppsGuru",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 492,
+					"friends_count": 489,
+					"listed_count": 58,
+					"created_at": "Tue May 12 21:51:05 +0000 2009",
+					"favourites_count": 2556,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 3416,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12616845/twitter.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/12616845/twitter.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/929390209187409920/IFW3Jfng_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/929390209187409920/IFW3Jfng_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/39605850/1510419037",
+					"profile_link_color": "40C502",
+					"profile_sidebar_border_color": "DAF5CC",
+					"profile_sidebar_fill_color": "0D0D0D",
+					"profile_text_color": "4EA0EF",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 7,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 19:47:19 +0000 2018",
+			"id": 975458647592587300,
+			"id_str": "975458647592587264",
+			"text": "@ArtsyPowerApper @YouTube I’ll be sure to like each of the videos I watch, I already subscribe.  They are a great r… https://t.co/a4EsOPk4jI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ArtsyPowerApper",
+						"name": "Audrie Gordon",
+						"id": 816725942844260400,
+						"id_str": "816725942844260352",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							17,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/a4EsOPk4jI",
+						"expanded_url": "https://twitter.com/i/web/status/975458647592587264",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 975445326512365600,
+			"in_reply_to_status_id_str": "975445326512365568",
+			"in_reply_to_user_id": 816725942844260400,
+			"in_reply_to_user_id_str": "816725942844260352",
+			"in_reply_to_screen_name": "ArtsyPowerApper",
+			"user": {
+				"id": 251463092,
+				"id_str": "251463092",
+				"name": "Ben McMann",
+				"screen_name": "benmcmann",
+				"location": "Dallas",
+				"description": "Help others make work more effective through better collaboration.  Facilitator, Architect, Innovator, dedicated to making work better. Work @ArtisConsulting.",
+				"url": "http://t.co/WmV2uoyNd9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WmV2uoyNd9",
+								"expanded_url": "http://benmcmann.wordpress.com",
+								"display_url": "benmcmann.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 244,
+				"friends_count": 177,
+				"listed_count": 53,
+				"created_at": "Sun Feb 13 05:24:49 +0000 2011",
+				"favourites_count": 2432,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 467,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799324344748937216/v3LEgV9v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799324344748937216/v3LEgV9v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/251463092/1399000872",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 19:46:50 +0000 2018",
+			"id": 975458524829507600,
+			"id_str": "975458524829507585",
+			"text": "RT @ArtsyPowerApper: We are reviewing the value of my videos for use on the PowerApps YT channel. Would you please ‘like’ the videos that a…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ArtsyPowerApper",
+						"name": "Audrie Gordon",
+						"id": 816725942844260400,
+						"id_str": "816725942844260352",
+						"indices": [
+							3,
+							19
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 116196785,
+				"id_str": "116196785",
+				"name": "Ruth Pozuelo Mtnez",
+				"screen_name": "ruthpozuelo",
+				"location": "Stockholm, Sweden",
+				"description": "Microsoft MVP Data Platform :) @CurbalEN Starting up a company and learning by doing and undoing. https://t.co/X8FV3WQ8ss",
+				"url": "https://t.co/UdWiADGPzq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UdWiADGPzq",
+								"expanded_url": "http://curbal.com",
+								"display_url": "curbal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/X8FV3WQ8ss",
+								"expanded_url": "https://www.youtube.com/c/CurbalEN",
+								"display_url": "youtube.com/c/CurbalEN",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 486,
+				"friends_count": 286,
+				"listed_count": 39,
+				"created_at": "Sun Feb 21 14:48:10 +0000 2010",
+				"favourites_count": 901,
+				"utc_offset": 3600,
+				"time_zone": "Stockholm",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 853,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/699722880335085569/Hm7QX1kx_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/699722880335085569/Hm7QX1kx_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/116196785/1455661830",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Mar 18 18:54:23 +0000 2018",
+				"id": 975445326512365600,
+				"id_str": "975445326512365568",
+				"text": "We are reviewing the value of my videos for use on the PowerApps YT channel. Would you please ‘like’ the videos tha… https://t.co/sYaccZ3B9M",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/sYaccZ3B9M",
+							"expanded_url": "https://twitter.com/i/web/status/975445326512365568",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 816725942844260400,
+					"id_str": "816725942844260352",
+					"name": "Audrie Gordon",
+					"screen_name": "ArtsyPowerApper",
+					"location": "Redmond, WA",
+					"description": "Microsoft employee and big fan of mobile tools that solve real business problems, & apps that enhance my quality of life! Sharing what's new in PowerApps!",
+					"url": "https://t.co/gm6WVcFPgc",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gm6WVcFPgc",
+									"expanded_url": "http://www.microsoft.com",
+									"display_url": "microsoft.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 592,
+					"friends_count": 157,
+					"listed_count": 28,
+					"created_at": "Wed Jan 04 19:20:13 +0000 2017",
+					"favourites_count": 496,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 649,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/816725942844260352/1483567412",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "59454533edec2571",
+					"url": "https://api.twitter.com/1.1/geo/id/59454533edec2571.json",
+					"place_type": "city",
+					"name": "Woodinville",
+					"full_name": "Woodinville, WA",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-122.1764064,
+									47.723831
+								],
+								[
+									-122.108973,
+									47.723831
+								],
+								[
+									-122.108973,
+									47.776251
+								],
+								[
+									-122.1764064,
+									47.776251
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 7,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 19:23:02 +0000 2018",
+			"id": 975452537074700300,
+			"id_str": "975452537074700288",
+			"text": "Join me at #SPC18 this May to learn about #SharePoint , #Office365 , #MSTeams , #PowerApps , #Flow and more! Check… https://t.co/hb9AhXRNsB",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SPC18",
+						"indices": [
+							11,
+							17
+						]
+					},
+					{
+						"text": "SharePoint",
+						"indices": [
+							42,
+							53
+						]
+					},
+					{
+						"text": "Office365",
+						"indices": [
+							56,
+							66
+						]
+					},
+					{
+						"text": "MSTeams",
+						"indices": [
+							69,
+							77
+						]
+					},
+					{
+						"text": "PowerApps",
+						"indices": [
+							80,
+							90
+						]
+					},
+					{
+						"text": "Flow",
+						"indices": [
+							93,
+							98
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hb9AhXRNsB",
+						"expanded_url": "https://twitter.com/i/web/status/975452537074700288",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 859754934,
+				"id_str": "859754934",
+				"name": "Vlad Catrinescu",
+				"screen_name": "vladcatrinescu",
+				"location": "Montreal,Canada",
+				"description": "#SharePoint & Office 365 MVP International Speaker and author @Pluralsight  & @Apress  . Working as a Product Evangelist for  award winning @valointranet .",
+				"url": "http://t.co/PHeXbEMlwm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PHeXbEMlwm",
+								"expanded_url": "http://www.absolute-sharepoint.com",
+								"display_url": "absolute-sharepoint.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8381,
+				"friends_count": 760,
+				"listed_count": 340,
+				"created_at": "Wed Oct 03 14:15:53 +0000 2012",
+				"favourites_count": 2899,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31471,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/806670588/0e5fb57439450638ba853342969dc0cc.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/806670588/0e5fb57439450638ba853342969dc0cc.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/646896958511013888/__uOCEjt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/646896958511013888/__uOCEjt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/859754934/1415765195",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 18:55:42 +0000 2018",
+			"id": 975445656482410500,
+			"id_str": "975445656482410496",
+			"text": "RT @ArtsyPowerApper: Only 2 left! As announced when the series began, the last Friday Functions video is scheduled for 3/30. Your thoughts?…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ArtsyPowerApper",
+						"name": "Audrie Gordon",
+						"id": 816725942844260400,
+						"id_str": "816725942844260352",
+						"indices": [
+							3,
+							19
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816725942844260400,
+				"id_str": "816725942844260352",
+				"name": "Audrie Gordon",
+				"screen_name": "ArtsyPowerApper",
+				"location": "Redmond, WA",
+				"description": "Microsoft employee and big fan of mobile tools that solve real business problems, & apps that enhance my quality of life! Sharing what's new in PowerApps!",
+				"url": "https://t.co/gm6WVcFPgc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gm6WVcFPgc",
+								"expanded_url": "http://www.microsoft.com",
+								"display_url": "microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 592,
+				"friends_count": 157,
+				"listed_count": 28,
+				"created_at": "Wed Jan 04 19:20:13 +0000 2017",
+				"favourites_count": 496,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 649,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816725942844260352/1483567412",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Fri Mar 16 18:09:14 +0000 2018",
+				"id": 974709190034886700,
+				"id_str": "974709190034886657",
+				"text": "Only 2 left! As announced when the series began, the last Friday Functions video is scheduled for 3/30. Your though… https://t.co/nouok57ycr",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/nouok57ycr",
+							"expanded_url": "https://twitter.com/i/web/status/974709190034886657",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 816725942844260400,
+					"id_str": "816725942844260352",
+					"name": "Audrie Gordon",
+					"screen_name": "ArtsyPowerApper",
+					"location": "Redmond, WA",
+					"description": "Microsoft employee and big fan of mobile tools that solve real business problems, & apps that enhance my quality of life! Sharing what's new in PowerApps!",
+					"url": "https://t.co/gm6WVcFPgc",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gm6WVcFPgc",
+									"expanded_url": "http://www.microsoft.com",
+									"display_url": "microsoft.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 592,
+					"friends_count": 157,
+					"listed_count": 28,
+					"created_at": "Wed Jan 04 19:20:13 +0000 2017",
+					"favourites_count": 496,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 649,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/816725942844260352/1483567412",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "512a8a4a4c4b4be0",
+					"url": "https://api.twitter.com/1.1/geo/id/512a8a4a4c4b4be0.json",
+					"place_type": "city",
+					"name": "Charlotte",
+					"full_name": "Charlotte, NC",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-81.046876,
+									35.001706
+								],
+								[
+									-80.646695,
+									35.001706
+								],
+								[
+									-80.646695,
+									35.416412
+								],
+								[
+									-81.046876,
+									35.416412
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 18:54:23 +0000 2018",
+			"id": 975445326512365600,
+			"id_str": "975445326512365568",
+			"text": "We are reviewing the value of my videos for use on the PowerApps YT channel. Would you please ‘like’ the videos tha… https://t.co/sYaccZ3B9M",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sYaccZ3B9M",
+						"expanded_url": "https://twitter.com/i/web/status/975445326512365568",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816725942844260400,
+				"id_str": "816725942844260352",
+				"name": "Audrie Gordon",
+				"screen_name": "ArtsyPowerApper",
+				"location": "Redmond, WA",
+				"description": "Microsoft employee and big fan of mobile tools that solve real business problems, & apps that enhance my quality of life! Sharing what's new in PowerApps!",
+				"url": "https://t.co/gm6WVcFPgc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gm6WVcFPgc",
+								"expanded_url": "http://www.microsoft.com",
+								"display_url": "microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 592,
+				"friends_count": 157,
+				"listed_count": 28,
+				"created_at": "Wed Jan 04 19:20:13 +0000 2017",
+				"favourites_count": 496,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 649,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816725942844260352/1483567412",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "59454533edec2571",
+				"url": "https://api.twitter.com/1.1/geo/id/59454533edec2571.json",
+				"place_type": "city",
+				"name": "Woodinville",
+				"full_name": "Woodinville, WA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.1764064,
+								47.723831
+							],
+							[
+								-122.108973,
+								47.723831
+							],
+							[
+								-122.108973,
+								47.776251
+							],
+							[
+								-122.1764064,
+								47.776251
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 18:52:45 +0000 2018",
+			"id": 975444914916950000,
+			"id_str": "975444914916950017",
+			"text": "RT @ArtsyPowerApper: As promised, here's the follow-up video on Dynamic Filtering from the Friday Functions Series. Feel free to combine so…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ArtsyPowerApper",
+						"name": "Audrie Gordon",
+						"id": 816725942844260400,
+						"id_str": "816725942844260352",
+						"indices": [
+							3,
+							19
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29709005,
+				"id_str": "29709005",
+				"name": "Karl G. Schneider",
+				"screen_name": "schneika",
+				"location": "Nürnberg",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 473,
+				"friends_count": 514,
+				"listed_count": 407,
+				"created_at": "Wed Apr 08 13:01:27 +0000 2009",
+				"favourites_count": 59,
+				"utc_offset": 7200,
+				"time_zone": "Athens",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32022,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/128881122/KGS_1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/128881122/KGS_1_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Mar 18 16:06:59 +0000 2018",
+				"id": 975403198356713500,
+				"id_str": "975403198356713472",
+				"text": "As promised, here's the follow-up video on Dynamic Filtering from the Friday Functions Series. Feel free to combine… https://t.co/9so2CIkoD4",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/9so2CIkoD4",
+							"expanded_url": "https://twitter.com/i/web/status/975403198356713472",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 816725942844260400,
+					"id_str": "816725942844260352",
+					"name": "Audrie Gordon",
+					"screen_name": "ArtsyPowerApper",
+					"location": "Redmond, WA",
+					"description": "Microsoft employee and big fan of mobile tools that solve real business problems, & apps that enhance my quality of life! Sharing what's new in PowerApps!",
+					"url": "https://t.co/gm6WVcFPgc",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gm6WVcFPgc",
+									"expanded_url": "http://www.microsoft.com",
+									"display_url": "microsoft.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 592,
+					"friends_count": 157,
+					"listed_count": 28,
+					"created_at": "Wed Jan 04 19:20:13 +0000 2017",
+					"favourites_count": 496,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 649,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/816725942844260352/1483567412",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 18:40:10 +0000 2018",
+			"id": 975441748276031500,
+			"id_str": "975441748276031488",
+			"text": "RT @MarkQJones: Time is running out to grab one of the last 2 free Tickets to SharePoint Conference North America in Las Vegas. #SPC18 Each…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SPC18",
+						"indices": [
+							128,
+							134
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MarkQJones",
+						"name": "Mark J #collab365",
+						"id": 18355936,
+						"id_str": "18355936",
+						"indices": [
+							3,
+							14
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://gleam.io\" rel=\"nofollow\">Gleam Competition App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1148007259,
+				"id_str": "1148007259",
+				"name": "Negar Shahbaz",
+				"screen_name": "NegarShahbaz",
+				"location": "Sweden",
+				"description": "SharePoint Specialist - Developer/Solution Architect",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 206,
+				"friends_count": 497,
+				"listed_count": 20,
+				"created_at": "Mon Feb 04 13:24:33 +0000 2013",
+				"favourites_count": 1088,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 557,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439930751945961472/8TRMy3BC_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439930751945961472/8TRMy3BC_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sat Mar 17 10:44:30 +0000 2018",
+				"id": 974959657650413600,
+				"id_str": "974959657650413568",
+				"text": "Time is running out to grab one of the last 2 free Tickets to SharePoint Conference North America in Las Vegas.… https://t.co/KqyAERh5Td",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/KqyAERh5Td",
+							"expanded_url": "https://twitter.com/i/web/status/974959657650413568",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 18355936,
+					"id_str": "18355936",
+					"name": "Mark J #collab365",
+					"screen_name": "MarkQJones",
+					"location": "iPhone: 53.832306,-1.713404",
+					"description": "Founder of Collaboris and Collab365.",
+					"url": "https://t.co/SKVPyNO83W",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/SKVPyNO83W",
+									"expanded_url": "http://uk.linkedin.com/in/markqjones/",
+									"display_url": "uk.linkedin.com/in/markqjones/",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3236,
+					"friends_count": 2666,
+					"listed_count": 156,
+					"created_at": "Wed Dec 24 11:50:37 +0000 2008",
+					"favourites_count": 1248,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 10857,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/616895701373464577/Tka641Vc_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/616895701373464577/Tka641Vc_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/18355936/1453118333",
+					"profile_link_color": "BE3621",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 16,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 18:31:45 +0000 2018",
+			"id": 975439631272554500,
+			"id_str": "975439631272554496",
+			"text": "RT @dchristian19: Here's my latest video blog on 'Bulk update filtered items on @PowerApps'. This blog is in response to a question that wa…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dchristian19",
+						"name": "Daniel Christian",
+						"id": 39605850,
+						"id_str": "39605850",
+						"indices": [
+							3,
+							16
+						]
+					},
+					{
+						"screen_name": "PowerApps",
+						"name": "Microsoft PowerApps",
+						"id": 4305781932,
+						"id_str": "4305781932",
+						"indices": [
+							80,
+							90
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474372065,
+				"id_str": "2474372065",
+				"name": "Phil Worrell",
+				"screen_name": "Worrelpa",
+				"location": "Nyon, Switzerland",
+				"description": "Long time IT pro / business analyst keeping up with #Office365 #Sharepoint and all things in between from Switzerland (personal opinions only.)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1727,
+				"friends_count": 4229,
+				"listed_count": 47,
+				"created_at": "Fri May 02 18:04:33 +0000 2014",
+				"favourites_count": 18057,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19961,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/462291844575936513/ZsipOSmR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/462291844575936513/ZsipOSmR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474372065/1489944774",
+				"profile_link_color": "001EB3",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Mar 18 18:12:18 +0000 2018",
+				"id": 975434738084270100,
+				"id_str": "975434738084270082",
+				"text": "Here's my latest video blog on 'Bulk update filtered items on @PowerApps'. This blog is in response to a question t… https://t.co/8Logguyifi",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "PowerApps",
+							"name": "Microsoft PowerApps",
+							"id": 4305781932,
+							"id_str": "4305781932",
+							"indices": [
+								62,
+								72
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/8Logguyifi",
+							"expanded_url": "https://twitter.com/i/web/status/975434738084270082",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 39605850,
+					"id_str": "39605850",
+					"name": "Daniel Christian",
+					"screen_name": "dchristian19",
+					"location": "NC, USA",
+					"description": "A believer in Christ, husband to a beautiful wife, father to two handsome boys and a Microsoft MVP. #PowerAppsGuru",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 492,
+					"friends_count": 489,
+					"listed_count": 58,
+					"created_at": "Tue May 12 21:51:05 +0000 2009",
+					"favourites_count": 2556,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 3416,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12616845/twitter.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/12616845/twitter.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/929390209187409920/IFW3Jfng_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/929390209187409920/IFW3Jfng_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/39605850/1510419037",
+					"profile_link_color": "40C502",
+					"profile_sidebar_border_color": "DAF5CC",
+					"profile_sidebar_fill_color": "0D0D0D",
+					"profile_text_color": "4EA0EF",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 9,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 18:12:18 +0000 2018",
+			"id": 975434738084270100,
+			"id_str": "975434738084270082",
+			"text": "Here's my latest video blog on 'Bulk update filtered items on @PowerApps'. This blog is in response to a question t… https://t.co/8Logguyifi",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PowerApps",
+						"name": "Microsoft PowerApps",
+						"id": 4305781932,
+						"id_str": "4305781932",
+						"indices": [
+							62,
+							72
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8Logguyifi",
+						"expanded_url": "https://twitter.com/i/web/status/975434738084270082",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39605850,
+				"id_str": "39605850",
+				"name": "Daniel Christian",
+				"screen_name": "dchristian19",
+				"location": "NC, USA",
+				"description": "A believer in Christ, husband to a beautiful wife, father to two handsome boys and a Microsoft MVP. #PowerAppsGuru",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 492,
+				"friends_count": 489,
+				"listed_count": 58,
+				"created_at": "Tue May 12 21:51:05 +0000 2009",
+				"favourites_count": 2556,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3416,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12616845/twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/12616845/twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929390209187409920/IFW3Jfng_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929390209187409920/IFW3Jfng_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39605850/1510419037",
+				"profile_link_color": "40C502",
+				"profile_sidebar_border_color": "DAF5CC",
+				"profile_sidebar_fill_color": "0D0D0D",
+				"profile_text_color": "4EA0EF",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 18:07:02 +0000 2018",
+			"id": 975433409961984000,
+			"id_str": "975433409961984000",
+			"text": "Ich mag das @YouTube-Video: https://t.co/4XDkSh9PiW PowerApps Make data modifications from within a gallery",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							12,
+							20
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4XDkSh9PiW",
+						"expanded_url": "http://youtu.be/QLZzeQEgv4g?a",
+						"display_url": "youtu.be/QLZzeQEgv4g?a",
+						"indices": [
+							28,
+							51
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 224165214,
+				"id_str": "224165214",
+				"name": "Peter Heffner",
+				"screen_name": "Lingualizer",
+				"location": "",
+				"description": "",
+				"url": "http://t.co/wpPFfXmfd1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wpPFfXmfd1",
+								"expanded_url": "http://sp.peterheffner.cloudappsportal.com/",
+								"display_url": "sp.peterheffner.cloudappsportal.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67,
+				"friends_count": 175,
+				"listed_count": 19,
+				"created_at": "Wed Dec 08 09:13:12 +0000 2010",
+				"favourites_count": 44,
+				"utc_offset": 3600,
+				"time_zone": "Berlin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1016,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C4AF91",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000038847037/702591dcd5cc273ee2c5beedee7f0f38.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000038847037/702591dcd5cc273ee2c5beedee7f0f38.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2551546072/af2bsccrhaos8pv5rogm_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2551546072/af2bsccrhaos8pv5rogm_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/224165214/1375174900",
+				"profile_link_color": "E0A341",
+				"profile_sidebar_border_color": "332F27",
+				"profile_sidebar_fill_color": "FF305A",
+				"profile_text_color": "F28149",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 17:23:51 +0000 2018",
+			"id": 975422541882896400,
+			"id_str": "975422541882896384",
+			"text": "RT @DataVizWhizz: Looking forward to visiting Antwerp this weekend for @sqlsat Belgium. Come along to my session on embedding #powerapps in…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "powerapps",
+						"indices": [
+							126,
+							136
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DataVizWhizz",
+						"name": "Callum Green",
+						"id": 752519971645845500,
+						"id_str": "752519971645845504",
+						"indices": [
+							3,
+							16
+						]
+					},
+					{
+						"screen_name": "sqlsat",
+						"name": "PASS SQLSaturday",
+						"id": 135094681,
+						"id_str": "135094681",
+						"indices": [
+							71,
+							78
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 257500999,
+				"id_str": "257500999",
+				"name": "ChristianSteven",
+				"screen_name": "csssoft",
+				"location": "North Carolina, USA",
+				"description": "ChristianSteven Software delivers advanced Business Intelligence (BI) solutions that solve mission-critical large enterprise needs.",
+				"url": "https://t.co/Xkr1gZpqbQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xkr1gZpqbQ",
+								"expanded_url": "https://christiansteven.com",
+								"display_url": "christiansteven.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3823,
+				"friends_count": 2730,
+				"listed_count": 242,
+				"created_at": "Fri Feb 25 15:19:30 +0000 2011",
+				"favourites_count": 783,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18211,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789100184772968448/nBM2haN6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789100184772968448/nBM2haN6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/257500999/1458332371",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Fri Mar 16 08:50:10 +0000 2018",
+				"id": 974568494347014100,
+				"id_str": "974568494347014144",
+				"text": "Looking forward to visiting Antwerp this weekend for @sqlsat Belgium. Come along to my session on embedding #powerapps into #PowerBI.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "powerapps",
+							"indices": [
+								108,
+								118
+							]
+						},
+						{
+							"text": "PowerBI",
+							"indices": [
+								124,
+								132
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "sqlsat",
+							"name": "PASS SQLSaturday",
+							"id": 135094681,
+							"id_str": "135094681",
+							"indices": [
+								53,
+								60
+							]
+						}
+					],
+					"urls": []
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 752519971645845500,
+					"id_str": "752519971645845504",
+					"name": "Callum Green",
+					"screen_name": "DataVizWhizz",
+					"location": "Petersfield, Hampshire, UK",
+					"description": "Solutions Consultant at eBECS and general MS data geek. Power BI, PowerQuery,Big Data, Azure PaaS, IaaS,SaaS,Data Warehousing, SQL Server Stack & serial blogger",
+					"url": "https://t.co/eTcgpZr805",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/eTcgpZr805",
+									"expanded_url": "https://www.ebecs.com/",
+									"display_url": "ebecs.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 424,
+					"friends_count": 389,
+					"listed_count": 42,
+					"created_at": "Mon Jul 11 15:08:37 +0000 2016",
+					"favourites_count": 260,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 652,
+					"lang": "en-gb",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/752529213350117376/SOvtnJrR_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/752529213350117376/SOvtnJrR_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 4,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 17:12:34 +0000 2018",
+			"id": 975419703287013400,
+			"id_str": "975419703287013376",
+			"text": "RT @NickFratello: The Microsoft Business Platform (#PowerBI #PowerApps #MSFlow) enables  you to easily build a low-code ecosystem w unlimit…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PowerBI",
+						"indices": [
+							51,
+							59
+						]
+					},
+					{
+						"text": "PowerApps",
+						"indices": [
+							60,
+							70
+						]
+					},
+					{
+						"text": "MSFlow",
+						"indices": [
+							71,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NickFratello",
+						"name": "Nick Fratello",
+						"id": 34269366,
+						"id_str": "34269366",
+						"indices": [
+							3,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 257500999,
+				"id_str": "257500999",
+				"name": "ChristianSteven",
+				"screen_name": "csssoft",
+				"location": "North Carolina, USA",
+				"description": "ChristianSteven Software delivers advanced Business Intelligence (BI) solutions that solve mission-critical large enterprise needs.",
+				"url": "https://t.co/Xkr1gZpqbQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xkr1gZpqbQ",
+								"expanded_url": "https://christiansteven.com",
+								"display_url": "christiansteven.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3823,
+				"friends_count": 2730,
+				"listed_count": 242,
+				"created_at": "Fri Feb 25 15:19:30 +0000 2011",
+				"favourites_count": 783,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18211,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789100184772968448/nBM2haN6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789100184772968448/nBM2haN6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/257500999/1458332371",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Fri Mar 16 16:53:57 +0000 2018",
+				"id": 974690242006569000,
+				"id_str": "974690242006568960",
+				"text": "The Microsoft Business Platform (#PowerBI #PowerApps #MSFlow) enables  you to easily build a low-code ecosystem w u… https://t.co/cPWNaDxkmr",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "PowerBI",
+							"indices": [
+								33,
+								41
+							]
+						},
+						{
+							"text": "PowerApps",
+							"indices": [
+								42,
+								52
+							]
+						},
+						{
+							"text": "MSFlow",
+							"indices": [
+								53,
+								60
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/cPWNaDxkmr",
+							"expanded_url": "https://twitter.com/i/web/status/974690242006568960",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 34269366,
+					"id_str": "34269366",
+					"name": "Nick Fratello",
+					"screen_name": "NickFratello",
+					"location": "Boston, MA",
+					"description": "#MSDyn365 Certified #MCSE Technical Architect @Microsoft. Passionate about solving business challenges with technology. @Babsonalumni. Fan of #CRM #AI #WOL",
+					"url": "https://t.co/gL1Er3F4s9",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gL1Er3F4s9",
+									"expanded_url": "http://linkedin.com/in/nickfratello",
+									"display_url": "linkedin.com/in/nickfratello",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 284,
+					"friends_count": 525,
+					"listed_count": 16,
+					"created_at": "Wed Apr 22 13:24:09 +0000 2009",
+					"favourites_count": 1065,
+					"utc_offset": -18000,
+					"time_zone": "Quito",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 833,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/847157034239766528/AHRi1ILY_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/847157034239766528/AHRi1ILY_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/34269366/1490813047",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "cd450c94084cbf9b",
+					"url": "https://api.twitter.com/1.1/geo/id/cd450c94084cbf9b.json",
+					"place_type": "admin",
+					"name": "Massachusetts",
+					"full_name": "Massachusetts, USA",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-73.508143,
+									41.187054
+								],
+								[
+									-69.858861,
+									41.187054
+								],
+								[
+									-69.858861,
+									42.8868241
+								],
+								[
+									-73.508143,
+									42.8868241
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 17:12:20 +0000 2018",
+			"id": 975419643975340000,
+			"id_str": "975419643975340039",
+			"text": "RT @benmcmann: Using #PowerApps #MicrosoftFlow and #PowerBI to create a disaster response solution https://t.co/9ENjQHqrr2.  Another no cod…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PowerApps",
+						"indices": [
+							21,
+							31
+						]
+					},
+					{
+						"text": "MicrosoftFlow",
+						"indices": [
+							32,
+							46
+						]
+					},
+					{
+						"text": "PowerBI",
+						"indices": [
+							51,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "benmcmann",
+						"name": "Ben McMann",
+						"id": 251463092,
+						"id_str": "251463092",
+						"indices": [
+							3,
+							13
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9ENjQHqrr2",
+						"expanded_url": "http://bit.ly/2Dy1itN",
+						"display_url": "bit.ly/2Dy1itN",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 257500999,
+				"id_str": "257500999",
+				"name": "ChristianSteven",
+				"screen_name": "csssoft",
+				"location": "North Carolina, USA",
+				"description": "ChristianSteven Software delivers advanced Business Intelligence (BI) solutions that solve mission-critical large enterprise needs.",
+				"url": "https://t.co/Xkr1gZpqbQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xkr1gZpqbQ",
+								"expanded_url": "https://christiansteven.com",
+								"display_url": "christiansteven.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3823,
+				"friends_count": 2730,
+				"listed_count": 242,
+				"created_at": "Fri Feb 25 15:19:30 +0000 2011",
+				"favourites_count": 783,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18211,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789100184772968448/nBM2haN6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789100184772968448/nBM2haN6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/257500999/1458332371",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Fri Mar 16 16:59:33 +0000 2018",
+				"id": 974691650919333900,
+				"id_str": "974691650919333889",
+				"text": "Using #PowerApps #MicrosoftFlow and #PowerBI to create a disaster response solution https://t.co/9ENjQHqrr2.  Anoth… https://t.co/e0Y7Y61HTE",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "PowerApps",
+							"indices": [
+								6,
+								16
+							]
+						},
+						{
+							"text": "MicrosoftFlow",
+							"indices": [
+								17,
+								31
+							]
+						},
+						{
+							"text": "PowerBI",
+							"indices": [
+								36,
+								44
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/9ENjQHqrr2",
+							"expanded_url": "http://bit.ly/2Dy1itN",
+							"display_url": "bit.ly/2Dy1itN",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/e0Y7Y61HTE",
+							"expanded_url": "https://twitter.com/i/web/status/974691650919333889",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 251463092,
+					"id_str": "251463092",
+					"name": "Ben McMann",
+					"screen_name": "benmcmann",
+					"location": "Dallas",
+					"description": "Help others make work more effective through better collaboration.  Facilitator, Architect, Innovator, dedicated to making work better. Work @ArtisConsulting.",
+					"url": "http://t.co/WmV2uoyNd9",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/WmV2uoyNd9",
+									"expanded_url": "http://benmcmann.wordpress.com",
+									"display_url": "benmcmann.wordpress.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 244,
+					"friends_count": 177,
+					"listed_count": 53,
+					"created_at": "Sun Feb 13 05:24:49 +0000 2011",
+					"favourites_count": 2432,
+					"utc_offset": -18000,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 467,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/799324344748937216/v3LEgV9v_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/799324344748937216/v3LEgV9v_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/251463092/1399000872",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 16:59:39 +0000 2018",
+			"id": 975416455272464400,
+			"id_str": "975416455272464384",
+			"text": "RT @Ahmed_Adel: @MicrosoftFlow is 1 of the 3 I call the \"#SuperPowers triangle\": #PowerBI, #PowerApps &amp; #MicrosoftFlow. Here's a simple way…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SuperPowers",
+						"indices": [
+							57,
+							69
+						]
+					},
+					{
+						"text": "PowerBI",
+						"indices": [
+							81,
+							89
+						]
+					},
+					{
+						"text": "PowerApps",
+						"indices": [
+							91,
+							101
+						]
+					},
+					{
+						"text": "MicrosoftFlow",
+						"indices": [
+							108,
+							122
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Ahmed_Adel",
+						"name": "Ahmed Adel",
+						"id": 6259102,
+						"id_str": "6259102",
+						"indices": [
+							3,
+							14
+						]
+					},
+					{
+						"screen_name": "MicrosoftFlow",
+						"name": "Microsoft Flow",
+						"id": 722190257244889100,
+						"id_str": "722190257244889088",
+						"indices": [
+							16,
+							30
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 257500999,
+				"id_str": "257500999",
+				"name": "ChristianSteven",
+				"screen_name": "csssoft",
+				"location": "North Carolina, USA",
+				"description": "ChristianSteven Software delivers advanced Business Intelligence (BI) solutions that solve mission-critical large enterprise needs.",
+				"url": "https://t.co/Xkr1gZpqbQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xkr1gZpqbQ",
+								"expanded_url": "https://christiansteven.com",
+								"display_url": "christiansteven.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3823,
+				"friends_count": 2730,
+				"listed_count": 242,
+				"created_at": "Fri Feb 25 15:19:30 +0000 2011",
+				"favourites_count": 783,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18211,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789100184772968448/nBM2haN6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789100184772968448/nBM2haN6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/257500999/1458332371",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sat Mar 17 14:38:37 +0000 2018",
+				"id": 975018572090048500,
+				"id_str": "975018572090048512",
+				"text": "@MicrosoftFlow is 1 of the 3 I call the \"#SuperPowers triangle\": #PowerBI, #PowerApps &amp; #MicrosoftFlow. Here's a si… https://t.co/lFiWicIy0K",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "SuperPowers",
+							"indices": [
+								41,
+								53
+							]
+						},
+						{
+							"text": "PowerBI",
+							"indices": [
+								65,
+								73
+							]
+						},
+						{
+							"text": "PowerApps",
+							"indices": [
+								75,
+								85
+							]
+						},
+						{
+							"text": "MicrosoftFlow",
+							"indices": [
+								92,
+								106
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "MicrosoftFlow",
+							"name": "Microsoft Flow",
+							"id": 722190257244889100,
+							"id_str": "722190257244889088",
+							"indices": [
+								0,
+								14
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/lFiWicIy0K",
+							"expanded_url": "https://twitter.com/i/web/status/975018572090048512",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://www.linkedin.com/\" rel=\"nofollow\">LinkedIn</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": 722190257244889100,
+				"in_reply_to_user_id_str": "722190257244889088",
+				"in_reply_to_screen_name": "MicrosoftFlow",
+				"user": {
+					"id": 6259102,
+					"id_str": "6259102",
+					"name": "Ahmed Adel",
+					"screen_name": "Ahmed_Adel",
+					"location": "Mississauga, Ontario",
+					"description": "Growth hacking, Perpetual Learning & Data/Tech \nSports Music photography \nWork: Microsoft Posts: my own",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5851,
+					"friends_count": 3647,
+					"listed_count": 363,
+					"created_at": "Wed May 23 12:05:56 +0000 2007",
+					"favourites_count": 1951,
+					"utc_offset": 7200,
+					"time_zone": "Cairo",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 4030,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/912750273118003200/YldXn5C9_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/912750273118003200/YldXn5C9_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/6259102/1488938709",
+					"profile_link_color": "0000FF",
+					"profile_sidebar_border_color": "87BC44",
+					"profile_sidebar_fill_color": "E0FF92",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 16:53:06 +0000 2018",
+			"id": 975414803127615500,
+			"id_str": "975414803127615488",
+			"text": "RT @WeavyTeam: 11:30am Thurs, March 22: Sponsoring lunch for next week's LA @SharePoint Users Group @Meetup at the @Microsoft office in Pla…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WeavyTeam",
+						"name": "Weavy Collaboration Framework",
+						"id": 864878295061413900,
+						"id_str": "864878295061413888",
+						"indices": [
+							3,
+							13
+						]
+					},
+					{
+						"screen_name": "SharePoint",
+						"name": "Microsoft SharePoint",
+						"id": 26541422,
+						"id_str": "26541422",
+						"indices": [
+							76,
+							87
+						]
+					},
+					{
+						"screen_name": "Meetup",
+						"name": "Meetup",
+						"id": 14591071,
+						"id_str": "14591071",
+						"indices": [
+							100,
+							107
+						]
+					},
+					{
+						"screen_name": "Microsoft",
+						"name": "Microsoft",
+						"id": 74286565,
+						"id_str": "74286565",
+						"indices": [
+							115,
+							125
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18822714,
+				"id_str": "18822714",
+				"name": "Jim Ehrenberg",
+				"screen_name": "LASharePointPro",
+				"location": "ÜT: 34.204326,-118.16473",
+				"description": "#SharePoint #O365 #SharePointArchitect | Best Practices | Deployment | Governance | Migration | Adoption | Mentoring",
+				"url": "http://t.co/DShBotT6SV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/DShBotT6SV",
+								"expanded_url": "http://jimehrenberg.wordpress.com/",
+								"display_url": "jimehrenberg.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1656,
+				"friends_count": 1186,
+				"listed_count": 122,
+				"created_at": "Sat Jan 10 01:17:17 +0000 2009",
+				"favourites_count": 209,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4830,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/415909740/twilk_background_4f2c203b794ae.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/415909740/twilk_background_4f2c203b794ae.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1763487292/image_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1763487292/image_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18822714/1440099974",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "FAF7FA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Fri Mar 16 20:22:39 +0000 2018",
+				"id": 974742762372386800,
+				"id_str": "974742762372386816",
+				"text": "11:30am Thurs, March 22: Sponsoring lunch for next week's LA @SharePoint Users Group @Meetup at the @Microsoft offi… https://t.co/ZQAKvIrb6y",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "SharePoint",
+							"name": "Microsoft SharePoint",
+							"id": 26541422,
+							"id_str": "26541422",
+							"indices": [
+								61,
+								72
+							]
+						},
+						{
+							"screen_name": "Meetup",
+							"name": "Meetup",
+							"id": 14591071,
+							"id_str": "14591071",
+							"indices": [
+								85,
+								92
+							]
+						},
+						{
+							"screen_name": "Microsoft",
+							"name": "Microsoft",
+							"id": 74286565,
+							"id_str": "74286565",
+							"indices": [
+								100,
+								110
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/ZQAKvIrb6y",
+							"expanded_url": "https://twitter.com/i/web/status/974742762372386816",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 864878295061413900,
+					"id_str": "864878295061413888",
+					"name": "Weavy Collaboration Framework",
+					"screen_name": "WeavyTeam",
+					"location": "Los Angeles, CA - Malmö, Sweden",
+					"description": "Embed instant messaging, newsfeeds, file sharing, document collaboration, and more into the fabric of your web apps with a single line of code.",
+					"url": "https://t.co/dIdyC9hWu3",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/dIdyC9hWu3",
+									"expanded_url": "http://www.weavy.com",
+									"display_url": "weavy.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 118,
+					"friends_count": 207,
+					"listed_count": 1,
+					"created_at": "Wed May 17 16:20:29 +0000 2017",
+					"favourites_count": 91,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 196,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/923313217794752513/5zSm3QRh_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/923313217794752513/5zSm3QRh_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/864878295061413888/1508969957",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 16:50:56 +0000 2018",
+			"id": 975414260355518500,
+			"id_str": "975414260355518465",
+			"text": "RT @DataVizWhizz: Looking forward to showing off this little purple number at #datasummit in #Dublin. PowerApps and #PowerBI coming togethe…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "datasummit",
+						"indices": [
+							78,
+							89
+						]
+					},
+					{
+						"text": "Dublin",
+						"indices": [
+							93,
+							100
+						]
+					},
+					{
+						"text": "PowerBI",
+						"indices": [
+							116,
+							124
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DataVizWhizz",
+						"name": "Callum Green",
+						"id": 752519971645845500,
+						"id_str": "752519971645845504",
+						"indices": [
+							3,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 257500999,
+				"id_str": "257500999",
+				"name": "ChristianSteven",
+				"screen_name": "csssoft",
+				"location": "North Carolina, USA",
+				"description": "ChristianSteven Software delivers advanced Business Intelligence (BI) solutions that solve mission-critical large enterprise needs.",
+				"url": "https://t.co/Xkr1gZpqbQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xkr1gZpqbQ",
+								"expanded_url": "https://christiansteven.com",
+								"display_url": "christiansteven.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3823,
+				"friends_count": 2730,
+				"listed_count": 242,
+				"created_at": "Fri Feb 25 15:19:30 +0000 2011",
+				"favourites_count": 783,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18211,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789100184772968448/nBM2haN6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789100184772968448/nBM2haN6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/257500999/1458332371",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Mar 18 12:40:05 +0000 2018",
+				"id": 975351130275315700,
+				"id_str": "975351130275315712",
+				"text": "Looking forward to showing off this little purple number at #datasummit in #Dublin. PowerApps and #PowerBI coming t… https://t.co/9Tj8Qw0Uh9",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "datasummit",
+							"indices": [
+								60,
+								71
+							]
+						},
+						{
+							"text": "Dublin",
+							"indices": [
+								75,
+								82
+							]
+						},
+						{
+							"text": "PowerBI",
+							"indices": [
+								98,
+								106
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/9Tj8Qw0Uh9",
+							"expanded_url": "https://twitter.com/i/web/status/975351130275315712",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 752519971645845500,
+					"id_str": "752519971645845504",
+					"name": "Callum Green",
+					"screen_name": "DataVizWhizz",
+					"location": "Petersfield, Hampshire, UK",
+					"description": "Solutions Consultant at eBECS and general MS data geek. Power BI, PowerQuery,Big Data, Azure PaaS, IaaS,SaaS,Data Warehousing, SQL Server Stack & serial blogger",
+					"url": "https://t.co/eTcgpZr805",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/eTcgpZr805",
+									"expanded_url": "https://www.ebecs.com/",
+									"display_url": "ebecs.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 424,
+					"friends_count": 389,
+					"listed_count": 42,
+					"created_at": "Mon Jul 11 15:08:37 +0000 2016",
+					"favourites_count": 260,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 652,
+					"lang": "en-gb",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/752529213350117376/SOvtnJrR_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/752529213350117376/SOvtnJrR_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 8,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 16:28:33 +0000 2018",
+			"id": 975408624884420600,
+			"id_str": "975408624884420608",
+			"text": "RT @ArtsyPowerApper: As promised, here's the follow-up video on Dynamic Filtering from the Friday Functions Series. Feel free to combine so…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ArtsyPowerApper",
+						"name": "Audrie Gordon",
+						"id": 816725942844260400,
+						"id_str": "816725942844260352",
+						"indices": [
+							3,
+							19
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474372065,
+				"id_str": "2474372065",
+				"name": "Phil Worrell",
+				"screen_name": "Worrelpa",
+				"location": "Nyon, Switzerland",
+				"description": "Long time IT pro / business analyst keeping up with #Office365 #Sharepoint and all things in between from Switzerland (personal opinions only.)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1727,
+				"friends_count": 4229,
+				"listed_count": 47,
+				"created_at": "Fri May 02 18:04:33 +0000 2014",
+				"favourites_count": 18057,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19961,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/462291844575936513/ZsipOSmR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/462291844575936513/ZsipOSmR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474372065/1489944774",
+				"profile_link_color": "001EB3",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Mar 18 16:06:59 +0000 2018",
+				"id": 975403198356713500,
+				"id_str": "975403198356713472",
+				"text": "As promised, here's the follow-up video on Dynamic Filtering from the Friday Functions Series. Feel free to combine… https://t.co/9so2CIkoD4",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/9so2CIkoD4",
+							"expanded_url": "https://twitter.com/i/web/status/975403198356713472",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 816725942844260400,
+					"id_str": "816725942844260352",
+					"name": "Audrie Gordon",
+					"screen_name": "ArtsyPowerApper",
+					"location": "Redmond, WA",
+					"description": "Microsoft employee and big fan of mobile tools that solve real business problems, & apps that enhance my quality of life! Sharing what's new in PowerApps!",
+					"url": "https://t.co/gm6WVcFPgc",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gm6WVcFPgc",
+									"expanded_url": "http://www.microsoft.com",
+									"display_url": "microsoft.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 592,
+					"friends_count": 157,
+					"listed_count": 28,
+					"created_at": "Wed Jan 04 19:20:13 +0000 2017",
+					"favourites_count": 496,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 649,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/816725942844260352/1483567412",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 16:20:50 +0000 2018",
+			"id": 975406684674904000,
+			"id_str": "975406684674904064",
+			"text": "RT @ArtsyPowerApper: As promised, here's the follow-up video on Dynamic Filtering from the Friday Functions Series. Feel free to combine so…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ArtsyPowerApper",
+						"name": "Audrie Gordon",
+						"id": 816725942844260400,
+						"id_str": "816725942844260352",
+						"indices": [
+							3,
+							19
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39605850,
+				"id_str": "39605850",
+				"name": "Daniel Christian",
+				"screen_name": "dchristian19",
+				"location": "NC, USA",
+				"description": "A believer in Christ, husband to a beautiful wife, father to two handsome boys and a Microsoft MVP. #PowerAppsGuru",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 492,
+				"friends_count": 489,
+				"listed_count": 58,
+				"created_at": "Tue May 12 21:51:05 +0000 2009",
+				"favourites_count": 2556,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3416,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12616845/twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/12616845/twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929390209187409920/IFW3Jfng_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929390209187409920/IFW3Jfng_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39605850/1510419037",
+				"profile_link_color": "40C502",
+				"profile_sidebar_border_color": "DAF5CC",
+				"profile_sidebar_fill_color": "0D0D0D",
+				"profile_text_color": "4EA0EF",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Mar 18 16:06:59 +0000 2018",
+				"id": 975403198356713500,
+				"id_str": "975403198356713472",
+				"text": "As promised, here's the follow-up video on Dynamic Filtering from the Friday Functions Series. Feel free to combine… https://t.co/9so2CIkoD4",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/9so2CIkoD4",
+							"expanded_url": "https://twitter.com/i/web/status/975403198356713472",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 816725942844260400,
+					"id_str": "816725942844260352",
+					"name": "Audrie Gordon",
+					"screen_name": "ArtsyPowerApper",
+					"location": "Redmond, WA",
+					"description": "Microsoft employee and big fan of mobile tools that solve real business problems, & apps that enhance my quality of life! Sharing what's new in PowerApps!",
+					"url": "https://t.co/gm6WVcFPgc",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/gm6WVcFPgc",
+									"expanded_url": "http://www.microsoft.com",
+									"display_url": "microsoft.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 592,
+					"friends_count": 157,
+					"listed_count": 28,
+					"created_at": "Wed Jan 04 19:20:13 +0000 2017",
+					"favourites_count": 496,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 649,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/816725942844260352/1483567412",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 16:17:01 +0000 2018",
+			"id": 975405723973750800,
+			"id_str": "975405723973750785",
+			"text": "RT @mikaelsvenson: How to display images from a #SharePoint library in #PowerApps https://t.co/CDPjOdBj5s https://t.co/p8MqTxLmkf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SharePoint",
+						"indices": [
+							48,
+							59
+						]
+					},
+					{
+						"text": "PowerApps",
+						"indices": [
+							71,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mikaelsvenson",
+						"name": "Mikael Svenson",
+						"id": 15860975,
+						"id_str": "15860975",
+						"indices": [
+							3,
+							17
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CDPjOdBj5s",
+						"expanded_url": "http://pzl.no/2G0Gh0g",
+						"display_url": "pzl.no/2G0Gh0g",
+						"indices": [
+							82,
+							105
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 974659570583916500,
+						"id_str": "974659570583916544",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/DYavtymW0AAyCYJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYavtymW0AAyCYJ.jpg",
+						"url": "https://t.co/p8MqTxLmkf",
+						"display_url": "pic.twitter.com/p8MqTxLmkf",
+						"expanded_url": "https://twitter.com/mikaelsvenson/status/974659573377323013/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 602,
+								"h": 372,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 602,
+								"h": 372,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 602,
+								"h": 372,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 974659573377323000,
+						"source_status_id_str": "974659573377323013",
+						"source_user_id": 15860975,
+						"source_user_id_str": "15860975"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 974659570583916500,
+						"id_str": "974659570583916544",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/DYavtymW0AAyCYJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYavtymW0AAyCYJ.jpg",
+						"url": "https://t.co/p8MqTxLmkf",
+						"display_url": "pic.twitter.com/p8MqTxLmkf",
+						"expanded_url": "https://twitter.com/mikaelsvenson/status/974659573377323013/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 602,
+								"h": 372,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 602,
+								"h": 372,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 602,
+								"h": 372,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 974659573377323000,
+						"source_status_id_str": "974659573377323013",
+						"source_user_id": 15860975,
+						"source_user_id_str": "15860975"
+					},
+					{
+						"id": 974659570579722200,
+						"id_str": "974659570579722241",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/DYavtylW0AEfkQh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYavtylW0AEfkQh.jpg",
+						"url": "https://t.co/p8MqTxLmkf",
+						"display_url": "pic.twitter.com/p8MqTxLmkf",
+						"expanded_url": "https://twitter.com/mikaelsvenson/status/974659573377323013/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 314,
+								"h": 687,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 314,
+								"h": 687,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 311,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 974659573377323000,
+						"source_status_id_str": "974659573377323013",
+						"source_user_id": 15860975,
+						"source_user_id_str": "15860975"
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.necio.ch\" rel=\"nofollow\">Swiss SharePoint News</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 713699873414127600,
+				"id_str": "713699873414127617",
+				"name": "SwissSharePoint News",
+				"screen_name": "SharePointSwiss",
+				"location": "Genève, Suisse",
+				"description": "#SharePoint, #Office365, #O365, #Azure",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2577,
+				"friends_count": 2527,
+				"listed_count": 484,
+				"created_at": "Sat Mar 26 12:11:24 +0000 2016",
+				"favourites_count": 127,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10449,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/713743666825797633/HzKvP39x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/713743666825797633/HzKvP39x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/713699873414127617/1459004747",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Fri Mar 16 14:52:05 +0000 2018",
+				"id": 974659573377323000,
+				"id_str": "974659573377323013",
+				"text": "How to display images from a #SharePoint library in #PowerApps https://t.co/CDPjOdBj5s https://t.co/p8MqTxLmkf",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "SharePoint",
+							"indices": [
+								29,
+								40
+							]
+						},
+						{
+							"text": "PowerApps",
+							"indices": [
+								52,
+								62
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/CDPjOdBj5s",
+							"expanded_url": "http://pzl.no/2G0Gh0g",
+							"display_url": "pzl.no/2G0Gh0g",
+							"indices": [
+								63,
+								86
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 974659570583916500,
+							"id_str": "974659570583916544",
+							"indices": [
+								87,
+								110
+							],
+							"media_url": "http://pbs.twimg.com/media/DYavtymW0AAyCYJ.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DYavtymW0AAyCYJ.jpg",
+							"url": "https://t.co/p8MqTxLmkf",
+							"display_url": "pic.twitter.com/p8MqTxLmkf",
+							"expanded_url": "https://twitter.com/mikaelsvenson/status/974659573377323013/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 602,
+									"h": 372,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 602,
+									"h": 372,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 602,
+									"h": 372,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 974659570583916500,
+							"id_str": "974659570583916544",
+							"indices": [
+								87,
+								110
+							],
+							"media_url": "http://pbs.twimg.com/media/DYavtymW0AAyCYJ.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DYavtymW0AAyCYJ.jpg",
+							"url": "https://t.co/p8MqTxLmkf",
+							"display_url": "pic.twitter.com/p8MqTxLmkf",
+							"expanded_url": "https://twitter.com/mikaelsvenson/status/974659573377323013/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 602,
+									"h": 372,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 602,
+									"h": 372,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 602,
+									"h": 372,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 974659570579722200,
+							"id_str": "974659570579722241",
+							"indices": [
+								87,
+								110
+							],
+							"media_url": "http://pbs.twimg.com/media/DYavtylW0AEfkQh.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DYavtylW0AEfkQh.jpg",
+							"url": "https://t.co/p8MqTxLmkf",
+							"display_url": "pic.twitter.com/p8MqTxLmkf",
+							"expanded_url": "https://twitter.com/mikaelsvenson/status/974659573377323013/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 314,
+									"h": 687,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 314,
+									"h": 687,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 311,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 15860975,
+					"id_str": "15860975",
+					"name": "Mikael Svenson",
+					"screen_name": "mikaelsvenson",
+					"location": "Oslo",
+					"description": "Computer literate with an interest for SharePoint, search, coding, and life in general. Community contributor and SharePoint  Server and Services MVP",
+					"url": "https://t.co/zGKeFPvFWT",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/zGKeFPvFWT",
+									"expanded_url": "http://techmikael.com",
+									"display_url": "techmikael.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2396,
+					"friends_count": 682,
+					"listed_count": 182,
+					"created_at": "Fri Aug 15 07:19:01 +0000 2008",
+					"favourites_count": 1424,
+					"utc_offset": 3600,
+					"time_zone": "Stockholm",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 6712,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1A1B1F",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/595949892809269248/OQIIHLEl.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/595949892809269248/OQIIHLEl.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/928239626296479744/a-YrlNii_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/928239626296479744/a-YrlNii_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/15860975/1510144730",
+					"profile_link_color": "2FC2EF",
+					"profile_sidebar_border_color": "181A1E",
+					"profile_sidebar_fill_color": "252429",
+					"profile_text_color": "666666",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 5,
+				"favorite_count": 8,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 16:06:59 +0000 2018",
+			"id": 975403198356713500,
+			"id_str": "975403198356713472",
+			"text": "As promised, here's the follow-up video on Dynamic Filtering from the Friday Functions Series. Feel free to combine… https://t.co/9so2CIkoD4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9so2CIkoD4",
+						"expanded_url": "https://twitter.com/i/web/status/975403198356713472",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816725942844260400,
+				"id_str": "816725942844260352",
+				"name": "Audrie Gordon",
+				"screen_name": "ArtsyPowerApper",
+				"location": "Redmond, WA",
+				"description": "Microsoft employee and big fan of mobile tools that solve real business problems, & apps that enhance my quality of life! Sharing what's new in PowerApps!",
+				"url": "https://t.co/gm6WVcFPgc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gm6WVcFPgc",
+								"expanded_url": "http://www.microsoft.com",
+								"display_url": "microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 592,
+				"friends_count": 157,
+				"listed_count": 28,
+				"created_at": "Wed Jan 04 19:20:13 +0000 2017",
+				"favourites_count": 496,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 649,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816725942844260352/1483567412",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 15:54:00 +0000 2018",
+			"id": 975399932180955100,
+			"id_str": "975399932180955137",
+			"text": "Dynamics 365 und Common Data Service im Team\n\nhttps://t.co/3n3SiBhrtk\n\n#Azure #Office365 #Cloud #BigData #Skybow… https://t.co/5MeHWHLj04",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Azure",
+						"indices": [
+							71,
+							77
+						]
+					},
+					{
+						"text": "Office365",
+						"indices": [
+							78,
+							88
+						]
+					},
+					{
+						"text": "Cloud",
+						"indices": [
+							89,
+							95
+						]
+					},
+					{
+						"text": "BigData",
+						"indices": [
+							96,
+							104
+						]
+					},
+					{
+						"text": "Skybow",
+						"indices": [
+							105,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3n3SiBhrtk",
+						"expanded_url": "https://hubs.ly/H0b5yY80",
+						"display_url": "hubs.ly/H0b5yY80",
+						"indices": [
+							46,
+							69
+						]
+					},
+					{
+						"url": "https://t.co/5MeHWHLj04",
+						"expanded_url": "https://twitter.com/i/web/status/975399932180955137",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41316271,
+				"id_str": "41316271",
+				"name": "EFEXCON AG",
+				"screen_name": "EFEXCON",
+				"location": "Switzerland - Zürich Area",
+				"description": "Engage with us for Inbound & social media, crm & sales, customer service and collaboration. We love disruption, startups, cloud & apps. See our CEO @grosonair",
+				"url": "http://t.co/0fA5EoHU5r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0fA5EoHU5r",
+								"expanded_url": "http://www.efexcon.com",
+								"display_url": "efexcon.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3651,
+				"friends_count": 2794,
+				"listed_count": 435,
+				"created_at": "Wed May 20 07:33:00 +0000 2009",
+				"favourites_count": 5489,
+				"utc_offset": 3600,
+				"time_zone": "Berlin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10552,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/511857784028033024/vdmtmNS0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/511857784028033024/vdmtmNS0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41316271/1499509845",
+				"profile_link_color": "C1272D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 15:54:00 +0000 2018",
+			"id": 975399932021616600,
+			"id_str": "975399932021616640",
+			"text": "Dynamics 365 und Common Data Service im Team\n\nhttps://t.co/jh1n1W8zDh\n\n#Azure #Office365 #Cloud #BigData #Skybow… https://t.co/fN6nFThQwp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Azure",
+						"indices": [
+							71,
+							77
+						]
+					},
+					{
+						"text": "Office365",
+						"indices": [
+							78,
+							88
+						]
+					},
+					{
+						"text": "Cloud",
+						"indices": [
+							89,
+							95
+						]
+					},
+					{
+						"text": "BigData",
+						"indices": [
+							96,
+							104
+						]
+					},
+					{
+						"text": "Skybow",
+						"indices": [
+							105,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jh1n1W8zDh",
+						"expanded_url": "https://hubs.ly/H0b5yYb0",
+						"display_url": "hubs.ly/H0b5yYb0",
+						"indices": [
+							46,
+							69
+						]
+					},
+					{
+						"url": "https://t.co/fN6nFThQwp",
+						"expanded_url": "https://twitter.com/i/web/status/975399932021616640",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 109639269,
+				"id_str": "109639269",
+				"name": "Pawel Bojkowski",
+				"screen_name": "pbojkowski",
+				"location": "GERMANY",
+				"description": "Father / Husband / Mr. Hustle / technology enthusiast / Social Media enthusiast / Entrepreneur / Managing Partner at @EFEXCON",
+				"url": "https://t.co/T81eXszhRn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T81eXszhRn",
+								"expanded_url": "http://www.efexcon.com",
+								"display_url": "efexcon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9123,
+				"friends_count": 10130,
+				"listed_count": 565,
+				"created_at": "Fri Jan 29 19:10:33 +0000 2010",
+				"favourites_count": 2875,
+				"utc_offset": 3600,
+				"time_zone": "Paris",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10734,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/484782290464014336/wQkrxnEV.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/484782290464014336/wQkrxnEV.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836928234717655041/oyUJrt-j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836928234717655041/oyUJrt-j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/109639269/1404415773",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 15:44:32 +0000 2018",
+			"id": 975397550579748900,
+			"id_str": "975397550579748865",
+			"text": "Tips and Tricks for multiselect controls with advanced tagging options \r\rhttps://t.co/Or31R5tfQQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Or31R5tfQQ",
+						"expanded_url": "https://powerusers.microsoft.com/t5/PowerApps-Community-Blog/Tips-and-Tricks-for-multiselect-controls-with-advanced-tagging/ba-p/91130",
+						"display_url": "powerusers.microsoft.com/t5/PowerApps-C…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 936347443318394900,
+				"id_str": "936347443318394880",
+				"name": "Nati Papirovitch ☁️",
+				"screen_name": "NatiPapirovitch",
+				"location": "Israel",
+				"description": "SharePoint and Office 365 productivity MVP, P-TSP, Speaker,\nOwner of PointU, SharePoint & office 365 consulting services",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65,
+				"friends_count": 539,
+				"listed_count": 0,
+				"created_at": "Thu Nov 30 21:33:21 +0000 2017",
+				"favourites_count": 68,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 69,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/970818578151653376/6GyDNx0i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/970818578151653376/6GyDNx0i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/936347443318394880/1520296162",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 15:32:01 +0000 2018",
+			"id": 975394400703582200,
+			"id_str": "975394400703582208",
+			"text": "RT @DataVizWhizz: Looking forward to showing off this little purple number at #datasummit in #Dublin. PowerApps and #PowerBI coming togethe…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "datasummit",
+						"indices": [
+							78,
+							89
+						]
+					},
+					{
+						"text": "Dublin",
+						"indices": [
+							93,
+							100
+						]
+					},
+					{
+						"text": "PowerBI",
+						"indices": [
+							116,
+							124
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DataVizWhizz",
+						"name": "Callum Green",
+						"id": 752519971645845500,
+						"id_str": "752519971645845504",
+						"indices": [
+							3,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 709871783,
+				"id_str": "709871783",
+				"name": "Michele Doyle",
+				"screen_name": "SQLShel",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 119,
+				"friends_count": 797,
+				"listed_count": 5,
+				"created_at": "Fri Oct 11 21:06:56 +0000 2013",
+				"favourites_count": 829,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 296,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/655382296837648384/dHrpGD6i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/655382296837648384/dHrpGD6i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/709871783/1494385544",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Mar 18 12:40:05 +0000 2018",
+				"id": 975351130275315700,
+				"id_str": "975351130275315712",
+				"text": "Looking forward to showing off this little purple number at #datasummit in #Dublin. PowerApps and #PowerBI coming t… https://t.co/9Tj8Qw0Uh9",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "datasummit",
+							"indices": [
+								60,
+								71
+							]
+						},
+						{
+							"text": "Dublin",
+							"indices": [
+								75,
+								82
+							]
+						},
+						{
+							"text": "PowerBI",
+							"indices": [
+								98,
+								106
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/9Tj8Qw0Uh9",
+							"expanded_url": "https://twitter.com/i/web/status/975351130275315712",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 752519971645845500,
+					"id_str": "752519971645845504",
+					"name": "Callum Green",
+					"screen_name": "DataVizWhizz",
+					"location": "Petersfield, Hampshire, UK",
+					"description": "Solutions Consultant at eBECS and general MS data geek. Power BI, PowerQuery,Big Data, Azure PaaS, IaaS,SaaS,Data Warehousing, SQL Server Stack & serial blogger",
+					"url": "https://t.co/eTcgpZr805",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/eTcgpZr805",
+									"expanded_url": "https://www.ebecs.com/",
+									"display_url": "ebecs.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 424,
+					"friends_count": 389,
+					"listed_count": 42,
+					"created_at": "Mon Jul 11 15:08:37 +0000 2016",
+					"favourites_count": 260,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 652,
+					"lang": "en-gb",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/752529213350117376/SOvtnJrR_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/752529213350117376/SOvtnJrR_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 8,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 15:29:53 +0000 2018",
+			"id": 975393864910549000,
+			"id_str": "975393864910548994",
+			"text": "RT @8bitclassroom: A ten frame that students can use for screencasting their thinking and inking\n\nI used a swipe control in @PowerApps so u…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "8bitclassroom",
+						"name": "8-bit Classroom",
+						"id": 854149007211241500,
+						"id_str": "854149007211241472",
+						"indices": [
+							3,
+							17
+						]
+					},
+					{
+						"screen_name": "PowerApps",
+						"name": "Microsoft PowerApps",
+						"id": 4305781932,
+						"id_str": "4305781932",
+						"indices": [
+							124,
+							134
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2474372065,
+				"id_str": "2474372065",
+				"name": "Phil Worrell",
+				"screen_name": "Worrelpa",
+				"location": "Nyon, Switzerland",
+				"description": "Long time IT pro / business analyst keeping up with #Office365 #Sharepoint and all things in between from Switzerland (personal opinions only.)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1727,
+				"friends_count": 4229,
+				"listed_count": 47,
+				"created_at": "Fri May 02 18:04:33 +0000 2014",
+				"favourites_count": 18057,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19961,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/462291844575936513/ZsipOSmR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/462291844575936513/ZsipOSmR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2474372065/1489944774",
+				"profile_link_color": "001EB3",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Mar 18 15:00:02 +0000 2018",
+				"id": 975386350995165200,
+				"id_str": "975386350995165185",
+				"text": "A ten frame that students can use for screencasting their thinking and inking\n\nI used a swipe control in @PowerApps… https://t.co/1vtEfVfmgl",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "PowerApps",
+							"name": "Microsoft PowerApps",
+							"id": 4305781932,
+							"id_str": "4305781932",
+							"indices": [
+								105,
+								115
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/1vtEfVfmgl",
+							"expanded_url": "https://twitter.com/i/web/status/975386350995165185",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 854149007211241500,
+					"id_str": "854149007211241472",
+					"name": "8-bit Classroom",
+					"screen_name": "8bitclassroom",
+					"location": "",
+					"description": "Tweets about education, technology, and #PowerApps by Mr. Brian Dang\n\n#MSFTEduChat",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 152,
+					"friends_count": 143,
+					"listed_count": 2,
+					"created_at": "Tue Apr 18 01:46:07 +0000 2017",
+					"favourites_count": 401,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 390,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/924065410936225792/F2C59fY1_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/924065410936225792/F2C59fY1_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/854149007211241472/1501369692",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 15:00:02 +0000 2018",
+			"id": 975386350995165200,
+			"id_str": "975386350995165185",
+			"text": "A ten frame that students can use for screencasting their thinking and inking\n\nI used a swipe control in @PowerApps… https://t.co/1vtEfVfmgl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PowerApps",
+						"name": "Microsoft PowerApps",
+						"id": 4305781932,
+						"id_str": "4305781932",
+						"indices": [
+							105,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1vtEfVfmgl",
+						"expanded_url": "https://twitter.com/i/web/status/975386350995165185",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 854149007211241500,
+				"id_str": "854149007211241472",
+				"name": "8-bit Classroom",
+				"screen_name": "8bitclassroom",
+				"location": "",
+				"description": "Tweets about education, technology, and #PowerApps by Mr. Brian Dang\n\n#MSFTEduChat",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 152,
+				"friends_count": 143,
+				"listed_count": 2,
+				"created_at": "Tue Apr 18 01:46:07 +0000 2017",
+				"favourites_count": 401,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 390,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/924065410936225792/F2C59fY1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/924065410936225792/F2C59fY1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/854149007211241472/1501369692",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 14:22:15 +0000 2018",
+			"id": 975376840360583200,
+			"id_str": "975376840360583169",
+			"text": "RT @MarkQJones: Time is running out to grab one of the last 2 free Tickets to SharePoint Conference North America in Las Vegas. #SPC18 Each…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SPC18",
+						"indices": [
+							128,
+							134
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MarkQJones",
+						"name": "Mark J #collab365",
+						"id": 18355936,
+						"id_str": "18355936",
+						"indices": [
+							3,
+							14
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://gleam.io\" rel=\"nofollow\">Gleam Competition App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27632339,
+				"id_str": "27632339",
+				"name": "Fabrice Wantiez",
+				"screen_name": "FabriceWantiez",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/gsSs2V1g49",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gsSs2V1g49",
+								"expanded_url": "http://www.echecs-photos.be",
+								"display_url": "echecs-photos.be",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 133,
+				"friends_count": 214,
+				"listed_count": 1,
+				"created_at": "Mon Mar 30 13:07:34 +0000 2009",
+				"favourites_count": 577,
+				"utc_offset": 7200,
+				"time_zone": "Athens",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 686,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/114748308/entree_Fabrice_Wantiez_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/114748308/entree_Fabrice_Wantiez_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sat Mar 17 10:44:30 +0000 2018",
+				"id": 974959657650413600,
+				"id_str": "974959657650413568",
+				"text": "Time is running out to grab one of the last 2 free Tickets to SharePoint Conference North America in Las Vegas.… https://t.co/KqyAERh5Td",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/KqyAERh5Td",
+							"expanded_url": "https://twitter.com/i/web/status/974959657650413568",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 18355936,
+					"id_str": "18355936",
+					"name": "Mark J #collab365",
+					"screen_name": "MarkQJones",
+					"location": "iPhone: 53.832306,-1.713404",
+					"description": "Founder of Collaboris and Collab365.",
+					"url": "https://t.co/SKVPyNO83W",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/SKVPyNO83W",
+									"expanded_url": "http://uk.linkedin.com/in/markqjones/",
+									"display_url": "uk.linkedin.com/in/markqjones/",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3236,
+					"friends_count": 2666,
+					"listed_count": 156,
+					"created_at": "Wed Dec 24 11:50:37 +0000 2008",
+					"favourites_count": 1248,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 10857,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/616895701373464577/Tka641Vc_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/616895701373464577/Tka641Vc_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/18355936/1453118333",
+					"profile_link_color": "BE3621",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 16,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Sun Mar 18 14:07:54 +0000 2018",
+			"id": 975373231166251000,
+			"id_str": "975373231166251008",
+			"text": "Shame there's no Rich text editor control in @PowerApps but a halt to my customised SharePoint form 😪",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PowerApps",
+						"name": "Microsoft PowerApps",
+						"id": 4305781932,
+						"id_str": "4305781932",
+						"indices": [
+							45,
+							55
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 73096881,
+				"id_str": "73096881",
+				"name": "wutek (Toby Statham)",
+				"screen_name": "this_is_wutek",
+				"location": "Brighton, UK",
+				"description": "Independent SharePoint Consultant and mountain biking nut.",
+				"url": "https://t.co/GYlAZlhrIo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GYlAZlhrIo",
+								"expanded_url": "http://www.wutek.co.uk",
+								"display_url": "wutek.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 122,
+				"friends_count": 159,
+				"listed_count": 29,
+				"created_at": "Thu Sep 10 11:35:36 +0000 2009",
+				"favourites_count": 113,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 745,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/756037983183204352/A3BAfOh5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/756037983183204352/A3BAfOh5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/73096881/1469088475",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
 		}
-	]
+	],
+	"search_metadata": {
+		"completed_in": 0.21,
+		"max_id": 975474886083797000,
+		"max_id_str": "975474886083796997",
+		"next_results": "?max_id=975373231166251007&q=powerapps&count=30&include_entities=1",
+		"query": "powerapps",
+		"refresh_url": "?since_id=975474886083796997&q=powerapps&include_entities=1",
+		"count": 30,
+		"since_id": 0,
+		"since_id_str": "0"
+	}
 }

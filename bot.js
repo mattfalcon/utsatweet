@@ -1,20 +1,9 @@
-//Gameplan
-// 1. Create a Twitter Account (DONE)
-// 2. Run a search for BEst thing I ever ate section (DONE)
-// 3. Choose a random tweet from the search result
-// 4. Confirm the tweet I selected is not the same tweet
-// 5. Post that tweet on my twitter account
-// 6. Run the code such that it repeats x number of minutes
-// 7. Figure out how to delploye a worker with node.
-// 8. Stretch Target--> Do a google image search of phrase and include picture
-
-//=================================
 
 //Connected to twitter
 var Twitter = require('twitter');
 var fs = require('fs');
 
-//==================API KEYS==============================
+//API KEYS
 var client = new Twitter({
   consumer_key: process.env.TWITTER_CONSUMER_KEY,
   consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
@@ -22,15 +11,14 @@ var client = new Twitter({
   access_token_secret: process.env.TWITTER_ACCESS_TOKEN_SECRET
 });
 
-
 // Tweet Options 
 var all_tweets = [];
 var historic_tweets = [];
-  
+
 
 var TweetUTSA = function () {
 //Run a search for best thing I ever ate
-client.get('search/tweets', {q: "powerapps", count: 50}, function(error, tweets, response) {
+client.get('search/tweets', {q: "powerapps", count: 30}, function(error, tweets, response) {
   // console.log(tweets);
 
   //loop through all tweets possible
@@ -64,7 +52,7 @@ client.get('search/tweets', {q: "powerapps", count: 50}, function(error, tweets,
 
   //============POST TWEET ===========================================
   //Test case for tweeting out 
-  client.post('statuses/update', {status: selected_tweet.text + "  Tweet Frm:" + selected_tweet.location + ", " + selected_tweet.name + " " + "#BirdsUp"}, function(error, tweet, response) {
+  client.post('statuses/update', {status: "RT @" + selected_tweet.screen_name + " " + selected_tweet.text + "  Tweet Frm: " + selected_tweet.location + " @Stop_Pre is your #1 fan"}, function(error, tweet, response) {
     if (!error) {
       console.log(tweet);
     }
@@ -98,4 +86,4 @@ fs.writeFile("historic_tweets.json", JSON.stringify(historic_tweets, null, '\t')
 
 //Calling Function
 TweetUTSA()
-setInterval(TweetUTSA, 10800000);
+setInterval(TweetPD, 7200000);
