@@ -86,4 +86,4 @@ fs.writeFile("historic_tweets.json", JSON.stringify(historic_tweets, null, '\t')
 
 //Calling Function
 TweetUTSA()
-setInterval(TweetPD, 7200000);
+setInterval(TweetUTSA, 7200000);
