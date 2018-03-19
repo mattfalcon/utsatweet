@@ -18,7 +18,7 @@ var historic_tweets = [];
 
 var TweetUTSA = function () {
 //Run a search for best thing I ever ate
-client.get('search/tweets', {q: "Powerapps", count: 30}, function(error, tweets, response) {
+client.get('search/tweets', {q: "UTSA Roadrunners", count: 30}, function(error, tweets, response) {
   // console.log(tweets);
 
   //loop through all tweets possible
@@ -52,7 +52,7 @@ client.get('search/tweets', {q: "Powerapps", count: 30}, function(error, tweets,
 
   //============POST TWEET ===========================================
   //Test case for tweeting out 
-  client.post('statuses/update', {status: "RT @" + selected_tweet.screen_name + " " + selected_tweet.text + "  Tweet Frm: " + selected_tweet.location + "GREAT TWEET!!! #OFFICE365"}, function(error, tweet, response) {
+  client.post('statuses/update', {status: "RT @" + selected_tweet.screen_name + " " + selected_tweet.text + "  Tweet Frm: " + selected_tweet.location + "#BirdsUp #FeathersFly @Stop_Pre"}, function(error, tweet, response) {
     if (!error) {
       console.log(tweet);
     }
