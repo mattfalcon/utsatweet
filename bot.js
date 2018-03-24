@@ -52,7 +52,7 @@ client.get('search/tweets', {q: "UTSA Roadrunners", count: 30}, function(error, 
 
   //============POST TWEET ===========================================
   //Test case for tweeting out 
-  client.post('statuses/update', {status: "RT @" + selected_tweet.screen_name + " " + selected_tweet.text + "  Tweet Frm: " + selected_tweet.location + " #BirdsUp #FeathersFly 🤙💩 @Stop_Pre"}, function(error, tweet, response) {
+  client.post('statuses/update', {status: "RT @" + selected_tweet.screen_name + " " + selected_tweet.text + "  Tweet Frm: " + selected_tweet.location + " #BirdsUp #FeathersFly 🤙🦅 @Stop_Pre"}, function(error, tweet, response) {
     if (!error) {
       console.log(tweet);
     }
